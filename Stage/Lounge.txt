@@ -1,0 +1,101 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+#0100
+<KEY<SOU0011<DNP0100<FAO0002<TRA0056:0092:0024:0082
+
+#0200
+<KEY
+<FLJ1020:0201
+<EVE0299
+
+#0201
+<KEY
+<FLJ1121:0203
+<ITJ0028:0202
+<MSGDas hier sind Sprinkler.<NOD
+Sie gehen städig kaputt, weißt du.<NOD
+Darum haben wir hier immer 
+viele neue auf Lager.<NOD<END
+
+#0202
+<KEY<MSG<FL+1121Noch einer...?<NOD<CLR<GIT1028<IT-0028=Defekten Sprinkler= 
+übergeben.<NOD<GIT0000
+<KEY<MSGVersuch mal den  hier.<NOD<DNP0280<GIT1029<IT+0029<CLR
+<CMU0010Du hast den =Sprinkler= 
+bekommen.<WAI0160<NOD<RMU<END
+
+#0203
+<KEY<MSGHab gehört, dass die Blumen 
+fast schon blühen!<NOD
+Schein so, als hätten wir gerade 
+genug Sprinkler...<NOD<END
+
+
+#0210
+<KEY
+<FLJ1033:0212
+<FLJ1020:0211
+<EVE0299
+
+#0211
+<MSGEs ist wahr, dass Roboter 
+diese Insel in der Vergangenheit 
+angegriffen haben.<NOD
+Und viele von uns sind gestorben...<NOD
+Aber einige der Roboter konnten 
+Sprache verstehen.<NOD
+Und ich glaube, dass sie 
+auch Seelen hatten...<NOD<END
+
+#0212
+<MSGVerflucht sei der Doktor!<NOD<CLREinfach so das kleine 
+Mädchen mitzunehmen!<NOD
+Oh, wenn ich nur ein 
+bisschen jünger wäre...<NOD
+So eine Schande...<NOD<END
+
+#0220
+<KEY<FLJ1020:0221
+<EVE0299
+#0221
+<MSGIch glaube kein Wort vondem, 
+was der Doktor sagt!<NOD<CLRRoboter? Pah!<NOD
+Als wenn mich das 
+erschrecken könnte.<NOD<END
+
+#0230
+<KEY<FLJ1020:0231
+<EVE0299
+#0231
+<MSGIch bin so müde...<NOD<END
+
+#0250
+<KEY<MYB0000<MSGOh, hey.<NOD<CLRKennen wir uns nicht?<NOD
+Ja, unten, im Mimiga-Dorf.<NOD
+Jemand namens "Misery" hat mich 
+aufgeschnappt und hierhergeschleppt.<NOD
+Aber ehrlich, ich hasse die 
+Arbeit hier auf der Plantage.<NOD<CLRIch war gerade dabei, 
+mal an einem anderen Platz zu 
+angeln.<NOD<CLRMagst du Fisch?<NOD
+Naja, bis später.<NOD<CLO
+<ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
+<ANP0250:0000:0002<WAI0020
+<ANP0250:0020:0002<ANP0100:0000:0002<SOU0011<WAI0020
+<DNP0250<ANP0100:0000:0000<SOU0011<FL+1120<FL+1021<END
+
+
+#0280
+#0299
+<PRI<MSG.....<NOD<END
+

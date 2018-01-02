@@ -1,0 +1,100 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<KEY<FLJ1000:0095<MNA<CMU0008<FAI0004<EVE0200
+#0095
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0053:0094:0075:0005
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0000<TRA0056:0090:0118:0083
+
+#0200
+<KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
+<ANP0400:0010:0000<MSG
+Uwah!<NOD<CLO
+<ANP0400:0020:0000<WAI0050<END
+
+#0400
+<KEY
+<FLJ1003:0404
+<FLJ1102:0403
+<FLJ1002:0402
+<FLJ1001:0401<FL+1001<FL+1038
+<ANP0400:0010:0000
+<MSGAaahh!<MYB0002<NOD<CLRTu mir nichts!<NOD
+Ich bin ein Mensch! 
+Ich wurde nur durch Magie 
+in einen Mimiga 
+verwandelt!<NOD<CLROh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028So ist das.
+Du bist also 
+keiner von diesen 
+Killerrobotern?<NOD
+Naja, ich hab mir 
+gerade vor Schreck 
+beinahe in die 
+Hose gemacht,<NOD 
+als du da so 
+rausgesprungen bist!<NOD<CLRBist du 
+diese Retter, von dem 
+alle sprechen?<NOD<END
+
+
+#0401
+<KEY<FL+1002
+<MSG<FAC0028Ich bin Itoh, 
+einer der Wissenschaftler, 
+die zu dieser Insel 
+gekommen sind um 
+Nachforschungen zu 
+betreiben.<NOD
+Diese Misery hat 
+mich verwandelt...<NOD
+Ich konnte entkommen, 
+aber...<NOD 
+zu welchem Preis?<NOD<CLRUnd jetzt bin ich 
+hier gefangen!<NOD<CLRDu bist an 
+der Außenseite 
+hochgeklettert, oder?.<NOD
+Ich bin ein Ingenieur 
+von bemerkenswerten Talent,<NOD
+aber ich habe 
+grässliche Höhenangst...<NOD<CLROh, weh mir...<NOD<CLRIch hätte nie 
+als erster zu dieser 
+Insel kommen sollen.<NOD<END
+
+#0402
+<KEY<MSG<FAC0028Nein, nein, 
+sicherlich hast du 
+keinen Nutzen an einem 
+so pathetischen, 
+gestrandeten kleinen Mann.<NOD<END
+
+
+#0403
+<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Ja, das bin ich.<NOD<CLRWas sagst du?<NOD
+Sakamoto arbeitet an 
+einer Rakete?<NOD<CLRAlso ist sie 
+noch am leben...<NOD
+Ein Glück allein, 
+dass sie ist.<NOD
+Nicht wie ich, 
+sicherlich...<NOD<CLRNun denn.<NOD
+Nimm doch das mit dir.<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Du has die =Fernbedienung= 
+bekommen.<WAI0160<NOD<RMU
+<CLR<FAC0028Ich denke, das hier ist, 
+was sie noch braucht.<NOD<GIT0000<EVE0404
+#0404
+<KEY<MSG<FAC0028Bitte überbringe Frau 
+Sakamoto doch meine 
+hochachtungsvollen Grüße.<NOD<END
+

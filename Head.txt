@@ -1,0 +1,71 @@
+#0000
+<END
+
+#0001
+<PRI<MSGLeer.<NOD<END
+
+#0016
+<PRI<MSG
+Möchtest du speichern?<YNJ0000<FL+0431<SVP<CLRSpiel gespeichert.<NOD<END
+
+#0017
+<PRI<FLJ0201:0018
+<LI+1000<SOU0020<AE+<MSG
+Gesundheit wiederhergestellt.<NOD<END
+#0018
+<PRI
+<LI+1000<SOU0020<AE+<MSG
+Gesunheit wiederhergestellt. 
+Raketenmunition wiederaufgefüllt.<NOD<END
+
+#0019
+<KEY<MSG
+Möchtest du dich ausruhen?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<NOD<CLO
+<WAI0050
+<LI+1000<SOU0020<MYD0002<MSG
+Gesundheit wiederhergestellt.<NOD<CLO<RMU<FAI0004<END
+
+#0030
+<PRI<FLJ0202:0032<FLJ0201:0031<FL+0201<GIT0005<AM+0005:0010
+<CMU0010Du hast den =Raketenwerfer= 
+gefunden!<WAI0160<NOD<RMU<CLRDer Raketenwerfer 
+ist eine sehr mächtige Waffe, 
+aber seine Munition ist begrenzt.<NOD
+Du kannst dein Arsenal 
+mit Raketen wiederauffüllen, 
+die von Gegnern fallen 
+gelassen werden.<NOD<END
+#0031
+<PRI<AM+0005:0005<MSG
+<GIT0006Max Muntionsbegrenzung erhöht um <NUM0000!<NOD<END
+#0032
+<PRI<AM+0010:0005<MSG
+<GIT0011Max Muntionsbegrenzung erhöht um <NUM0000!<NOD<END
+
+#0040
+<KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
+<MSG
+Du bist gestorben.<NOD<CLRMöchtest du es nochmal versuchen?<YNJ0049<CLO
+<FAO0001<WAI0050<FLJ0431:0048<INI<END
+
+#0041
+<KEY<CMU0000<HMC<WAI0040<PRI<WAI0040<CMU0003
+<MSG
+Du bist ertrunken.<NOD<CLRMöchtest du es wieder versuchen?<YNJ0049<CLO
+<FAO0001<WAI0050<FLJ0431:0048<INI<END
+
+#0042
+<KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
+<MSG<HMC
+Du wurdest nie wieder gesehen...<NOD<CLRMöchtest du es nochmal versuchen?<YNJ0049<CLO
+<FAO0001<WAI0050<FLJ0431:0048<INI<END
+
+#0048
+<SMC<LDP<END
+
+#0049
+<CLO<FAO0004<ESC
+
+
+XX: head.tsc   4000 - 4099
+4000:Almond…“ď

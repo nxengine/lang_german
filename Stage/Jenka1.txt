@@ -1,0 +1,199 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+
+
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC0013Wer bist du...?<NOD
+Ich habe dich hier noch nie vorher gesehen.<NOD<END
+
+#0201
+<IT-0014
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<KEY<MSG<FAC0013Oh, mein Kleiner!<NOD<CLR<GIT1014Mein süßes Hündchen!<NOD<CLR
+<GIT0000<FAC0000=Welpen= übergeben.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013Du hast ihn zurückgebracht, 
+nehme ich an?<NOD
+Vielen Dank.<NOD<CLRWas ist das?<NOD
+=Rote Blumen=?<NOD<FAC0000<CLR<CMU0000<MSGHuzzah!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0005Wie gehts, Jenka?<NOD<CLR<FAC0013Ah, Balrog.<NOD<ANP0300:0120:0002
+Dir geht es gut, 
+wie ich sehe.<NOD
+Und wie geht es meinem 
+Einfallspinsel von Tochter?<NOD<CLR<FAC0014Hee-hee-hee!<NOD
+Einfallspinsel? 
+Du meinst Misery?<NOD
+Der geht's gut, ganz gut.<NOD<CLREin neuer Meister 
+ist aufgetaucht.<NOD
+Dieses Mal wird die Erde 
+unser sein!<NOD<CLR<FAC0013Also plant ihr 
+beide 
+mal wieder...<NOD<CLR<FAC0005Ich bin nicht hier, 
+um dir igendwelche 
+Schwierigkeiten zu machen.<NOD
+Ich wollte nur den 
+Schlüssel zum 
+Lagerhaus abhholen.<NOD<CLRDas in dem die 
+Blumensamen sind!<NOD<CLR<FAC0013.....<NOD<CLRMeine Güte...<NOD
+Wovon um alles in der 
+Welt sprichst du?<NOD<CLR
+<ANP0400:0030:0000<FAC0014Hoho!<NOD<CLRDu spielst den Dummkopf?!<NOD<CLR<FAC0005.....<NOD<CLRSo ist es also.<NOD
+Also hast du beschlossen, 
+uns zu hintergehen.<NOD<CLO<CMU0000
+<WAI0050<FAC0005<MSGDas wirst du bereuen.<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC0013<CNP0300:0130:0000Ein neuer Meister...<NOD
+Dieser Taugenichts.<NOD<MYD0200<CLR.....<NOD<CLRDa gibt es noch 
+vier weitere.<NOD
+Noch vier andere Hunde...<NOD<CLRAch, und meine Hüften 
+sind so schwach.<NOD<CLRKönnte eine alte Frau 
+dich dazu bewegen, 
+ihre Hunde zu suchen?<NOD<FL+0590<END
+
+#0210
+<KEY<MSG<FAC0013Noch vier weitere...<NOD
+Könnte eine alte Frau 
+dich dazu bewegen, 
+ihre Hunde zu suchen?<NOD<END
+
+#0211
+<KEY<MSG<FAC0013Noch drei übrig.<NOD
+viel Glück.<NOD<END
+
+#0212
+<KEY<MSG<FAC0013Ich glaube, 
+meine Kleinen haben einen 
+Narren an dir gefressen.<NOD<CLRNur noch zwei zu finden...<NOD<END
+
+#0213
+<KEY<MSG<FAC0013Einer noch...<NOD
+Ich wünschte wirklich, 
+du könntest diese roten 
+Blumen loswerden.<NOD<END
+
+
+#0220
+<KEY<MSG<FAC0013Ach, wie schnell.<NOD<CLR<GIT1014Das ist typisch für 
+meine kleinen Hunde.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000=Welpen= übergeben.<NOD<CLR<FL-0274<FAC0013Hmmm...<NOD
+Du bist ein Soldat von 
+der Oberfläche, oder?<NOD<CLR.....<NOD<CLRVor nicht all zu langer 
+Zeit kamen hunderte deiner 
+Art auf diese Insel.<NOD
+Sie haben tausende 
+Mimigas an sich gerissen.<NOD
+Genau wie die Menschen, 
+die sie beschützen wollten.<NOD<CLRLetztendlich verwendeten 
+die Mimigas
+die verbotenen 
+roten Blumen,<NOD
+und in ihrem Blutrausch 
+vernichteten sie 
+die Roboter.<NOD<CLRWären die roten 
+Blumen nicht gewesen,
+wären die Mimigas 
+warscheinlich 
+ausgerottet worden.<NOD
+Diese Insel...<NOD<CLRNoch drei übrig.<NODViel Glück.<NOD<FL+0591<END
+
+#0221
+<KEY<MSG<FAC0013Oooh.<NOD<CLR<GIT1014ja, ja.<NOD
+Das ist sicherlich einer 
+meiner geliebten Hündchen.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000=Welpen= übergeben.<NOD<CLR<FL-0274<FAC0013Dankeschön.
+Jetzt sind es schon drei...<NOD<CLR.....<NOD<CLRHast du jemals einen 
+wahnsinnigen 
+Mimiga gesehen?<NOD<CLRDie berauschten Mimigas 
+dachten,
+die roten Blumen würden 
+ihnen Stärke verleihen.<NOD
+Sie aßen sie, und sie 
+besiegten die Roboter.<NOD<CLR
+Wie auch immer...<NOD<CLRWillst du wissen, 
+was danach mit 
+ihnen geschah?<NOD<CLR.....<NOD<CLREs ist 
+eine traurige Legende...<NOD
+Die grausamen, 
+unkontrollierbaren 
+Mimigas,<NODverschwanden ohne 
+jede Spur.<NOD
+Wenn die Gerüchte wahr sind, 
+stiegen sie herab 
+zur Oberfläche,<NOD
+wo die Menschen leben.<NOD<CLREine Armee von 
+Killermaschinen, 
+auf der wehrlosen Erde...<NOD
+Wenn das wahr ist...<NOD<CLRVerstehst du jetzt?<NOD
+Verstehst du jetzt,
+wie gefährlich die 
+roten Blumen sind?<NOD<CLR.....<NOD<CLRNoch zwei zu suchen...<NOD<FL+0592<END
+
+#0222
+<KEY<MSG<FAC0013Sie scheinen dich zu mögen.<NOD
+Meine Welpen veschwenden 
+ihre Aufmerksamkeit nicht 
+an schlechten Typen.<NOD<CLR<GIT1014Vielen Dank...<NOD<CLR
+<GIT0000<FAC0000=Welpen= übergeben.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+<FAC0013.....<NOD<CLRDu willst den Schlüssel 
+für das Lagerhaus, 
+nicht wahr?<NOD
+In dem die Samen der roten 
+Blumen zu finden sind...<NOD<CLREs ist mir egal,
+wer du bist. 
+Du bekommst den 
+Schlüssel nicht.<NOD
+Das Lagerhaus zu öffnen 
+würde die gleiche Tragödie 
+wieder heraufbeschwören...<NOD<CLREins, 
+zwei, 
+drei...<NOD<CLRFehlt nur noch einer.<NOD<FL+0593<END
+
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+
+#0310
+<KEY<MSGArf!<NOD<END
+#0311
+<KEY<MSGArf arf!<NOD<END
+#0312
+<KEY<MSGArf arf arf!<NOD<END
+#0313
+<KEY<MSGBooop.<NOD<END
+#0314
+<KEY<MSGFive!<NOD<END
+
+
+#0400
+#0401
+

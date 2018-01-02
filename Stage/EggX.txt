@@ -1,0 +1,108 @@
+
+#0090
+<MNA<CMU0014<FAI0000<END
+#0091
+<MNA<CMU0014<FAI0001<END
+#0092
+<MNA<CMU0014<FAI0002<END
+#0093
+<MNA<CMU0014<FAI0003<END
+#0094
+<FLJ0120:0095<ANP0200:0010:0002<EVE0095
+#0095
+<MNA<CMU0014<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0002:0094:0291:0008
+
+#0105
+<PRI<MSGMöchtest du speichern?<YNJ0000<SVP<CLRSpiel gespeichert.<NOD<END
+#0106
+<PRI<LI+1000<SOU0020<AE+<MSGEnergie wiederhergestellt.<NOD<END
+
+
+#0110
+<KEY<MSGDu fühlst einen kalten Luftzug...<NOD<END
+
+
+#0200
+<FLJ0120:0210
+<KEY
+<FL+0120<FL+0105<FL+0154<FL+0155<FL+0329<FL+0106
+<MSG...Arg.<NOD<CLO
+<MYB0002<WAI0050<MYD0002
+<MSGOwww...<NOD<ANP0200:0011:0002<CLR<FAC0003Woh-oh!
+Hey, ich bin noch 
+nicht tot!<NOD
+Dieses Mal kriegst 
+du's zurück!!<NOD<FAC0000<CLO
+<WAI0050<ANP0200:0000:0002
+<MSG<FAC0001Hm?<WAI0050<NOD
+Ich wurde von diesem 
+Monster zermalmt...<ANP0200:0000:0000<NOD<CLR.....<NOD
+Hast du mich 
+gerettet?<YNJ0202<EVE0201
+#0201
+<FAC0003Ich brauche deine 
+Hilfe nicht!!<NOD<CLRIch hätte ihn 
+schon besiegt...
+ Irgendwie!<NOD
+Grr...Ich hasse diese 
+stinkende Insel,
+und ich hasse alles, 
+was darauf lebt!<NOD<FAC0000<CLO<EVE0203
+#0202
+<FAC0002Hmph...<NOD<CLRNa ja, 
+wie auch immer.<NOD<FAC0000<CLO<EVE0203
+#0203
+<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh!<NOD<MYD0003<CLRSieh mal! 
+Es ist...Ich glaube, 
+das ist Ei Nummer 00!<NOD<CLRDiese Ei könnte 
+mein Ticket weg 
+von dieser Insel sein!<NOD<CLO<FAC0000<MYD0002
+<ANP0200:0003:0002<WAI0030
+<ANP0200:0005:0002<WAI0050
+<MSG<FAC0001Zustand: Normal!
+Genau das wollte 
+ich hören!<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
+<MSG<FAC0002Hm?<NOD Ein Passwort?<NOD<FAC0000<CLO
+<WAI0050
+<ANP0200:0000:0000<WAI0050
+<MSG<FAC0001Sieht so aus, als bräuchte
+man ein Passwort, 
+um dieses Ei schlüpfen 
+zu lassen.<NOD<CLR<FAC0002Verdammt.<NOD<CLRIWenn nur mein 
+Bruder
+hier wäre, 
+er würde alles in 
+Ordnung bringen.<NOD<CLR.....<NOD<CLR<FAC0001Na dann, 
+sieht so aus,
+ als wäre ich hier fertig.<NOD<CLO
+<ANP0200:0003:0000<WAI0126
+<ANP0200:0000:0002<WAI0020
+<MSGBist du<MYD0000 von hier?<NOD<CLRSieht nicht danach aus.<NOD
+Die Worte da auf
+deiner Mütze...<NOD
+Das ist nicht die Sprache 
+von dieser Insel.<NOD<CLR
+...Bist du verloren 
+gegangen?<NOD<CLRKein Problem.<NOD
+Du kannst mit mir kommen.<NOD
+Zusammen können wir von 
+dieser Müllkippe runter.<NOD
+Im Gegenzug musst 
+du mir helfen.<NOD<CLO
+<ANP0200:0005:0002<WAI0020
+<SOU0011<ANP0100:0000:0002<WAI0020
+<ANP0100:0000:0000<DNP0200<SOU0023<END
+
+#0300
+<KEY<MSG<TURDrachenei Nr. 00
+Vorbereiteungen zum Schlüpfen getroffen.<NOD<CLR
+Passwort:<NOD<END
+#0300
+<PRI<FAO0004<TRA0001:0094:0005:0007
+
+
+#0400
+

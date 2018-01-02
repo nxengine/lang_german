@@ -1,0 +1,106 @@
+
+#0090
+<MNA<FAI0000<END
+#0091
+<MNA<FAI0001<END
+#0092
+<MNA<FAI0002<END
+#0093
+<MNA<FAI0003<END
+#0094
+<MNA<FAI0004<END
+
+#0100
+<KEY<CMU0000<WAI0100<SOU0101<WAI0020<SOU0035<WAI0200
+<FON0210:0016
+<WAI0100<CMU0000
+<ANP0200:0060:0002<FAI0003
+<WAI0300<DNP0220
+<WAI0200<DNP0200
+<ANP0230:0030:0000<WAI0002
+<ANP0230:0010:0000
+<FON0240:0016
+<WAI0160
+<MSG
+<CMU0010Von Kazuma aufgefangen!<WAI0160<CLR<FAC0010Puh...<NOD<CLRIch hätte nie gedacht, 
+dass ihr es 
+schaffen würdet.<NOD<CLRDen Kern zu zerstören, 
+meine ich...<NOD<CLRNun ist die Welt 
+frei von irgendwelchen 
+Plänen des Doktors.<NOD
+Der Friede wurde 
+gesichert!<NOD<CLR
+Jetzt lasst und nach 
+Hause gehen.<NOD<CLO
+<KEY<FAO0004<HMC<TRA0000:0100:0001:0015
+
+#0120
+<KEY<CMU0000
+<FON0240:0016
+<CNP0230:0356:0002
+<DNP0220<WAI0200
+<FAI0001
+<MSG<FAC0005<FL+2000<FL+1460Puh!<NOD<CLRDas... war kanpp.<NOD<CLR<FAC0019Ich war mir sicher, 
+dieses mal würde nur ein 
+Haufen Altmetall übrig
+bleiben...<NOD
+Sieht so aus, 
+als würden wir dir 
+noch etwas schulden.<NOD<CLO<FAC0000<WAI0050
+<MSG<FAC0005Dankt nicht mir.<NOD
+Ich habe nur getan, 
+was Misery von mir 
+verlangt hat.<NOD<CLR<FAC0025Misery? 
+Meinst du die Hexe?<NOD<CLR
+<FAC0005Genau die.<NOD<CLR<FAC0025Ich dachte, 
+sie hasst uns.<NOD
+Was?! Ich dachte, 
+IHR hasst UNS...<NOD<CLR<FAC0005Ihr habt Ballos besiegt, 
+oder?<NOD<CLRWenn ihr das getan 
+habt, habt ihr auch 
+unseren Bann aufgehoben.<NOD
+Nun müssen wir von 
+niemandem mehr Befehle 
+annehmen!<NOD<CLR<FAC0019Ich dachte, 
+ihr beide wärt böse,<NOD
+aber anscheinend war das 
+alles die Schuld der Krone!<NOD<CLR<FAC0005Tja, man erntet 
+was man säht.<NOD
+Misery hat ihn die 
+Krone erschaffen lassen.<NOD<CLR<FAC0025Huh.<NOD
+Was du nicht sagst.<NOD<CLR<FAC0005Genau was ich sage.<NOD<CLO<FAC0000
+<WAI0150
+<MSG<FAC0005So!<NOD<CLR
+<FAC0025So?<NOD<CLR<FAC0005Also was wollt 
+ihr nun tun?<NOD
+Ich kann euch überall 
+hinbringen.<NOD<CLR<FAC0019Hmm, du hast recht...<NOD<CLRUnsere Mission ist 
+erfüllt, jetz will ich 
+eigentlich nur noch 
+entspannen,<NOD
+und einen schönen 
+Ausblick genießen...<NOD<CLO<FAC0000
+<WAI0100<MSG<FAC0005Auch, wisst ihr...<NOD<CLR
+<FAC0025Hm?<NOD<CLR<FAC0005...Wäre es okay, 
+wenn ich mich euch 
+anschließe?<NOD<CLR
+<FAC0019Sicher!<NOD
+Lass es uns angehen!<NOD<CLR
+<FAC0014Wirklich?!<NOD<CLR<FAC0019Dann lass ich dich 
+den Ort auswählen.<NOD
+Finde einfach einen 
+schönen Platz, ja?<NOD<CLR
+<FAC0014Natürlich!!<NOD<CLRNa dan, auf geht's,
+<ANP0230:0020:0002H<WAI0010a<WAI0010l<WAI0010t<WAI0010 <WAI0010d<WAI0010i<WAI0010c<WAI0010h<WAI0010 <WAI0010f<WAI0010e<WAI0010s<WAI0010<WAI0010t<WAI0010!!<NOD<CLO<FAC0000
+<KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0001:0015
+
+#0121
+<KEY<WAI0100<MSG<GIT1032...Hast du nicht etwas 
+vergessen?<NOD<TRA0000:0100:0001:0015
+
+#0200
+#0210
+#0220
+#0230
+#0240
+

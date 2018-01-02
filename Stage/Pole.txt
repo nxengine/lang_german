@@ -1,0 +1,103 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0095
+<CMU0008<FAI0001<END
+
+#0100
+<PRI<FAO0000<TRA0012:0094:0053:0036
+
+
+
+#0200
+<KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
+<MSGSchatztruhe geöffnet.<NOD<GIT0002<AM+0002:0000<CLR
+<CMU0010Du hast den =Polar Star= 
+gefunden!<WAI0160<NOD<GIT0000<CLO<RMU
+<MSG
+Von irgenwo, eine Nachricht...<FAO0004<NOD<TRA0018:0501:0002:0000
+
+#0201
+<PRI<MSGLeer.<NOD<END
+
+#0210
+
+
+#0300
+<KEY<MSG*schnarch*<NOD<END
+
+#0301
+<FLJ1644:0303
+<KEY<MSGDu hast nicht zufällig 
+die Waffe gesehen, 
+die ich gemacht habe, oder?<NOD
+Jemand hat sie gestohlen, 
+während ich schlief!<NOD
+Mann, darum sollte ich sie 
+in meiner Tasche behalten, 
+während ich schlafe...<NOD<AMJ0002:0302<CLRSie war noch nicht einmla fertig!<NOD
+Nur noch ein bisschen, 
+und die Waffe wäre wirklich 
+ANGSTEINFLÖßEND gewesen.<NOD<CLR
+Ach, in was für eienr Welt 
+leben wir eigentlich...<NOD<END
+
+#0302
+<KEY<MSG<CMU0000<MYB0002
+HEY!!<NOD<CLRIst das nicht MEINE Waffe?!<NOD<CLR<GIT0002Was machst du damit?!
+Die war nicht für dich gedacht!<NOD<CLRGib sie mir wieder!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
+=Polar Star= abgenommen...<NOD<CLRPah!<NOD
+Ich sehe, du hast diese 
+Waffe schon mal benutzt.<NOD<CLR
+.....<NOD<CLRDu musst wissen,<NOD
+Ich habe lang geglaubt, 
+dass die Waffe, 
+die man gebraucht, von einem 
+selbst hergestellt werden sollte.<NOD
+Derjenige, der eine Waffe gebraucht, 
+die er nicht selbst hergestellt hat,
+dessen Kraft ist wertlos.<NOD
+Jemand der Waffen für etwas gebraucht, 
+das er selbst nicht erreichen kann, 
+ist ein Schwachkopf.<NOD<CLR
+<CMU0008Wie auch immer...<WAI0050<CLRDie Tatsache , 
+dass du diese Waffe so 
+exzessiv benutzt hast,
+rührt mich zun tränen.<NOD
+Wenn man bedenkt, 
+zu was diese Waffe fähig war, 
+bevor sie vollendet wurde...<NOD<CLR
+Hahhh...<NOD<CLRIch muss mich entschludigen.<NOD<CLR
+Du kannst diese Waffe behalten.<NOD<CMU0000<FAO0001
+Nachdem ich sie vollendet habe, 
+versteht sich.<NOD<CLO
+<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
+<CMU0010<MSG<GIT0013
+=Polar Star= wird zur =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+
+#0303
+<KEY<MSGIn dieser Welt exisitert 
+eine Balance zwischen Herstellern 
+und Nutzern.<NOD<CLRNatürlich weiß ich das, 
+aber es hat mir geholfen, 
+das an erster Hand zu erfahren.<NOD
+Von nun an bestimme ich mich 
+für die Seite der Hersteller.<NOD
+Die Arbeit lohnt sich bereits, 
+wenn ich sehe, 
+dass Leute sie bewundern.<NOD<END
+
+#0310
+<KEY<MSG<TUR
+"Außer Haus."<NOD<END
+
+

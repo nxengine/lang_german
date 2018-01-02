@@ -1,0 +1,99 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0011:0094:0043:0034
+
+
+#0200
+<FLJ0327:0201
+<KEY<MSG<FAC0007Der Schlüssel zu 
+Arthurs Haus...<NOD
+Ich dacht, 
+es gäbe wenigstens zwei.<NOD
+Verflucht seist du, 
+Toroko.
+Du spielst die 
+Unwissende...<NOD<CLRVielleicht weiß ja Jack,
+wo man den zweiten findet...<NOD<END
+#0201
+<KEY<MSG<FAC0007Toroko...
+Ich kann es nicht glauben...<NOD
+Torokos älterer Bruder,
+Arthur, war ein 
+fabelhafter Kämpfer.<NOD
+Aber er wurde von einem 
+Komplizen des 
+Doktors getötet.<NOD
+Und jetzt... 
+Jetzt konnte auch 
+ich sie nicht beschützen...<NOD<END
+
+#0210
+<KEY<MSG<FAC0009Es gibt zwei Schlüssel 
+zu Arthurs Haus.<NOD
+Toroko hat 
+einen davon.<NOD
+Der andere ist 
+auf dem Friedhof 
+versteckt.<NOD<END
+
+#0220
+<KEY<MSG<FAC0009Torokos Bruder Arthur
+
+hat das schreckliche 
+rote Monster besiegt...<NOD<CLRDer grausame 
+Dämon dieser Insel.<NOD<CLREs ist nicht der Doktor,
+es ist etwas... 
+etwas anderes.<NOD
+Dieser Dämon lebt 
+auf der Insel seit 
+Generationen.<NOD<CLREr kam zu diesem Dorf,<NOD
+aber Arthur hat ihn 
+eigenhändig verjagt.<NOD
+Allein seine Anwesenheit 
+schützte uns vor Gefahren...<NOD<CLRIch werde ihn bis an 
+mein Lebensende 
+nicht vergessen.<NOD<CLRVielleicht hat der Doktor 
+seinen Körper auslöschen können,
+ aber nicht seinen Geist 
+und seinen Heldenmut.<NOD<END
+
+
+
+#0300
+<ITJ0008:0301
+<KEY<MSG*Brutzel* *Knister!*<NOD<FLJ0442:0000<CLRHinter den Flammen 
+kannst du etwas erkennen.<NOD<END
+#0301
+<KEY<GIT1008<MSGMöchtest du die
+=Jellyfish Juice= benuztzen?<YNJ0000<CLO<GIT0000
+<IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
+<MSGIn der Asche findest du etwas...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010Du hast den =Blasenwerfer= 
+gefunden!<WAI0160<NOD<CLO<RMU<DNP0300<END
+#0302
+<KEY<DNP0300<END
+

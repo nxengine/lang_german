@@ -1,0 +1,71 @@
+
+#0090
+<MNA<FL-0263<CMU0002<FAI0000<END
+#0091
+<MNA<FL-0263<CMU0002<FAI0001<END
+#0092
+<MNA<FL-0263<CMU0002<FAI0002<END
+#0093
+<MNA<FL-0263<CMU0002<FAI0003<END
+#0094
+<MNA<FL-0263<FLJ0341:0099<CMU0002<FAI0004<END
+
+#0099
+<CMU0028<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0006:0094:0119:0017
+
+
+
+#0200
+<ITJ0008:0202
+<KEY<MSGHinter den züngelnden Falmmenn
+kanst du ein Loch erspähen.<NOD<FLJ0241:0201<END
+#0201
+<MSGDie Flammen sind im Weg, 
+du kannst nicht durch.<NOD<CLO
+<FLJ0261:0000<WAI0030<FL+0261<FL+0263
+<ANP0300:0003:0002<WAI0045<ANP0300:0000:0002<MYD0000
+<MSGOh, du möchtest durch 
+meinen Kamin?<NOD<CLRDann brauchst du die
+=Jellyfish Juice= , die du von den 
+Quallen bekommen kannst.<NOD<END
+#0202
+<KEY<GIT1008<MSGWillst du die
+=Jellyfish Juice= benutzen?<YNJ0000<CLO
+<FL+0213<IT-0008
+<ANP0200:0010:0000<WAI0030<FAO0004
+<TRA0006:0099:0124:0011
+
+#0210
+<PRI<ITJ0037:0019<FLJ0263:0211<EVE0019
+#0211
+<KEY<MSG
+Willst du dich ausruhen?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<IT+0037<NOD<CLO
+<MNP0300:0012:0006:0000<ANP0300:0010:0000
+<WAI0050
+<LI+1000<SOU0020<MYD0002<MSG
+Gesundheit wiederhergestellt.<NOD<CLO<RMU<FAI0004<END
+
+
+#0300
+<ITJ0008:0302
+<FLJ0261:0301
+<FLJ0241:0303
+<KEY<MSGHallo, da!<NOD<CLRHast du Santa getroffen?<NOD<END
+#0301
+<KEY<MSGUm das Feuer zu löschen, 
+brauchst du die =Jellyfish Juice=.<NOD<CLRDu kannst die =Jellyfish Juice=
+von den Quallen bekommen.<NOD
+Suche nach dem großen Sauger!<NOD<END
+#0302
+<KEY<MSGDu hast die =Jellyfish Juice=?!<NOD
+Wunderbar!<NOD<CLRDu kannst immer nur eine mitnehmen,
+aber du kannst sie dir so oft,
+wie du willst, wiederholen.<NOD<END
+#0303
+<KEY<MSGHallo, da!<NOD<CLRMeine Güte, das ist aber 
+ein gefährliches Ding, das du da hast.<NOD
+Bist du ein Reisender?<NOD<END
+

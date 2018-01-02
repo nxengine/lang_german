@@ -1,0 +1,143 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+
+
+
+#0100
+<FLJ0361:0103
+<FLJ0362:0101
+<FLJ0360:0102
+<KEY<SOU0011<ANP0100:0000:0002
+<FAO0004<TRA0011:0094:0042:0052
+#0101
+<PRI<MSGSie lässt sich nicht öffnen!<NOD<END
+#0102
+<KEY<FAO0004<TRA0011:0094:0042:0052
+#0103
+<PRI<MSGDu kannst nicht entkommen!<NOD<END
+
+#0150
+#0151
+#0152
+#0153
+#0154
+
+#0290
+<FLJ0370:0291<END
+#0291
+<FLJ0360:0000<PRI<MSG<FAC0008Warum verfolgst du mich?!<NOD<DNP0290<CNP1000:0063:0002<END
+
+#0400
+<KEY<FL-0361<FL-0362
+<SMC<CNP0400:0012:0000<ANP0400:0020:0004<WAI0140
+<PRI<MSG<FAC0005Na warte!<NOD<FAC0000<KEY<CLO
+<WAI0100<CMU0015
+<MSG
+Balrog vertrieben!<WAI0140<NOD
+<SOU0045<CNP0150:0001:0000<WAI0004
+<SOU0045<CNP0151:0001:0000<WAI0004
+<SOU0045<CNP0152:0001:0000<WAI0004
+<SOU0045<CNP0153:0001:0000<WAI0004
+<SOU0045<CNP0154:0001:0000
+<CMU0008<END
+
+#0500
+
+#1000
+<KEY<FL+0360<FL+0361<FL+0440<FL-0326<MSGAaaah!<NOD<CLRVerschone mich, 
+verschone mich!!<NOD<CLR.....<NODHm?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006Du bist kein 
+Komplize des Doktors?<NOD<CLROh! 
+Das tut mir aber leid.<NOD
+Du hast mir Angst gemacht.
+Der Doktor ist so ein 
+böser Mann.<NOD
+Taucht einfach so in 
+unserem Dorf auf,
+verschleppt uns,<NOD
+Manchmal tötet 
+er uns sogar...<NOD<CLRWie meinen Bruder.
+Er hat meinen 
+Bruder umgebracht.<NOD<CLROh!<NOD
+Das Amulett!<GIT1004<NOD<CLRDu hast es für 
+mich gefunden?<NOD
+Sue hat mir das gegeben!<NOD<CLR.....<NOD<CLRNaja, ich sollte es eh
+ nicht mehr haben.<NOD
+<GIT0000King hat seine Augen 
+und Ohren überall, 
+wenn er merkt, 
+dass ich etwas mit 
+Sue mache...<NOD
+Du kannst es behalten.<NOD<CLO
+<FAC0000<CMU0000
+<QUA0030<SOU0026
+<ANP1000:0008:0000
+<ANP0100:0001:0000
+<WAI0010
+<MYD0000
+<CNP1000:0060:0000
+<WAI0100
+<QUA0030<SOU0026
+<ANP1000:0008:0000
+<ANP0100:0001:0000
+<WAI0070
+<QUA0030<SOU0026
+<ANP1000:0008:0000
+<CNP0400:0019:0002
+<CNP0100:0018:0002
+<CMP0004:0008:0080
+<CMP0005:0008:0081
+<CMP0006:0008:0082
+<CMP0004:0009:0096
+<CMP0005:0009:0097
+<CMP0006:0009:0098
+
+
+<MSGHuzzah!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014Da bist du ja!<NOD<CLR<FAC0005Du kannst dich nicht 
+verstecken! Komm raus!<NOD
+Ich habe die Nase 
+eines Bluthundes!<NOD<FAC0000<CLRTypisch hast du die.<NOD
+<CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015Die Nase,
+und ich würde sagen 
+auch noch sein Gehirn.<NOD<CLR<FAC0005Misery!<NOD<CLRIch hab sie 
+zuerst entdeckt!<NOD<CLR<FAC0008Ihr- 
+Ihr seid doch die 
+Handlanger des Doktors!<NOD<CLR<FAC0015.....<NOD<CLR<FAC0016Dann bist du also Sue?
+Der Doktor lässt 
+nach dir suchen.<NOD
+Na los, komm!<NOD<CLR<FAC0006Ähm...Was?<NOD<CLR
+Ich bin nicht...<NOD<FAC0000<CLO
+<ANP0500:0015:0002<WAI0110
+<PRI<MSG<FAC0008Arrrg!<NOD<FAC0015<CLRBalrog.<NOD
+Den Rest kannst 
+du erledigen.<NOD<CLO
+<ANP0500:0020:0002<FAC0000<CLO
+<KEY<WAI0050<MSG<FAC0008Halt, wartet, 
+ihr habt die falsche--!<NOD<FAC0000<CLO
+<WAI0050
+<FAC0005<MSGNein! 
+Nicht schon wieder!<NOD
+Ich muss immer aufräumen!<NOD
+Und ICH habe sie 
+ZUERST gefunden!<NOD<CLR.....<NOD<CLRAlso, 
+was schlägst du vor?<NOD
+Willst du mich mit 
+diesem kleinen Ding 
+bekämpfen?<YNJ1001<ANP0400:0030:0002<CLR
+<FAC0014Ich wusste es!<NOD<CLO
+<FL+0361<CMU0004<CNP0400:0068:0002<BSL0400<END
+
+#1001
+<KEY<FL-0362<FL-0361<CMU0008<MSG<FAC0005Oh.<NOD
+Na dann, 
+man sieht sich.<NOD<CLO<ANP0400:0010:0002<END
+

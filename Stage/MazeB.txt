@@ -1,0 +1,93 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0099
+<KEY<MNA<CMU0008
+<ANP0200:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0200:0000:0000
+<MYD0000<DNP0301<SMC<END
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0039:0090:0197:0014
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
+
+<KEY<MSGDanke. Das ist es dann erstmal gewesen.
+  2003/09/27 Studio Pixel<NOD<END
+
+#0200
+<KEY<FLJ0744:0201<MS3Die Stromversorgung scheint 
+kaputt zu sein.<NOD<CLREin Techniker mit 
+gewissem Talent könnte das 
+vielleicht reparieren...<NOD<END
+#0201
+<KEY<MSGWillst du zu Arthurs Haus reisen?<YNJ0000<CLO
+<CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
+<WAI0100<FAO0004<TRA0001:0099:0005:0008
+
+#0300
+#0301
+
+#0500
+<KEY<MYD0002<CMU0000<FAI0002<FLA<SOU0029<WAI0050
+<MSG?<NOD<CLO<ANP0500:0010:0000<WAI0130<SOU0023<WAI0020<CMU0008
+<FL-0523<FL+0740<DNP0500<END
+
+
+#0501
+<KEY<ITJ0030:0503<FLJ0741:0502
+<MSGOohhh...<NOD<CLR<FAC0017Oh!<NOD
+Was tust du denn hier?!<NOD<CLR.....<NOD<CLRAlso hat Misery dich auch 
+hierhin geschickt...<NOD<CLR*schmunzel*...<NOD<CLRVielleicht ist da ja 
+doch noch ein 
+Silberstreif am 
+Horizont...<NOD<CLRDu siehst,<NOD
+Diese Insel schwebt 
+mit der Kraft eines 
+einzigen Organismus,<NOD
+und ich habe endlich 
+seinen Aufenthaltsort 
+herausgefunden.<NOD<CLRDiese Labyrinth.<NOD<CLRDer Organismus
+ist irgendwo 
+in diesem Labyrinth.<NOD
+Wenn er zerstört würde, 
+müsste die Insel ihre 
+Funktion aufgeben.<NOD<CLR*schmunzel*<NOD<CLRDer 
+Doktor muss wirklich 
+leichtsinnig sein,<NOD
+dich ins Herz dieser 
+Insel zu schicken.<NOD<CLRNimm das mit dir.<NOD<CLR<FAC0000<IT+0018<GIT1018
+Du hast den Booster v0.8 bekommen.<NOD<CLR<FAC0017Diese kleine Maschine wird 
+dir beim Fliegen helfen.<NOD
+Benutze das Inventar, 
+um ihn auszurüsten.<NOD<GIT0000<CLRPuh...<NOD<CLRAls ich herunter 
+gefallen bin, 
+dachte ich, 
+es wäre vorbei.<NOD
+Und jetzt hat es mir 
+die Möglichkeit gegeben, 
+dich ein letztes 
+Mal zu sehen...<NOD
+Doch nun wird mein Glück 
+hier vorüber sein.<NOD<CLRIch bete für 
+dich und deinen Sieg...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
+
+#0502
+<KEY<MSGIch bete für...<NOD<END
+
+#0503
+<KEY<MSGOoh...<NOD<END
+

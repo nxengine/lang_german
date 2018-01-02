@@ -1,0 +1,86 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<FLJ0595:0095<KEY<CMU0011<FAI0004<EVE0200
+#0095
+<MNA<CMU0019<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+
+
+
+#0200
+<KEY<MYD0000<ANP0400:0030:0000
+<MSG<FAC0014Der Lagerhausschlüssel?
+Den du, 
+aus welchem Grund auch 
+immer, ja gar nicht 
+hattest!<NODHe-He-He!<NOD
+Man sieht sich!<NOD<CLR
+<FAC0013Warte!!<NOD<CLO
+<ANP0400:0030:0002<WAI0030
+<ANP0400:0010:0002<FL+0595<FL+0278<WAI0200<CMU0019<END
+
+#0220
+<KEY
+<FLJ0596:0230
+<FL+0596<FL+0594<IT-0014
+<MSG<FAC0013Oohhh...<NOD...Du?<NOD<FAC0000<CLO
+<WAI0050
+<CNP0220:0133:0000<WAI0050
+<MSG<GIT1014<FAC0000=Welpen= übergeben.<NOD<GIT0000<CNP0300:0130:0000<DNP0401<FL-0274<CLR
+<FAC0013Der Schlüssel...<NOD
+Sie haben den Schlüssel 
+gestohlen...<NOD
+Bitte.
+Du musst sie aufhalten.<NOD<CLRSie wollen die Mimigas 
+vergiften und auf der 
+Oberfläche absetzen.<NOD<CLROh, ja...<NOD
+Das wirst du sicher 
+gebrauchen können...<NOD<GIT1015<IT+0015<CLR
+<FAC0000<CMU0010Du hast einen =Lebenstopf= 
+bekommen!<WAI0160<NOD<RMU<CLR<FAC0013Den kannst du einmal, 
+aber auch nur einmal, 
+verwenden, um deine 
+Gesundheit 
+wiederherzustellen.<NOD<END
+
+#0230
+<KEY<FLJ0830:0231<MSG<FAC0013Bitte!<NOD
+Du musst sie aufhalten!<NOD<CLRSie wollen die Mimigas 
+vergiften und auf der 
+Oberfläche absetzen!<NOD<END
+#0231
+<KEY<ITJ0015:0232
+<MSG<FAC0013Du kommst zu einem 
+guten Zeitpunkt.<NOD<GIT1015<IT+0015<CLR
+<FAC0000Du hast einen =Lebenstopf= 
+bekommen!<WAI0030<NOD<GIT0000<CLR<FAC0013Komm zurück, 
+wenn du mal wieder 
+einen brauchst.<NOD
+Das ist das letzte, 
+was eine alte Frau 
+wie ich tun kann...<NOD<END
+#0232
+<KEY<MSG<FAC0013Auch eine Hexe 
+wie ich altert...<NOD
+Alles was ich nun 
+tun kann ist, 
+meine Hoffnung in 
+dich zu legen...<NOD<END
+
+#0300
+<KEY<MSG*whine*...<NOD<END
+
+
+#0400
+#0401
+

@@ -1,0 +1,146 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000
+<FLJ0703:0101
+<TRA0039:0094:0084:0015
+#0101
+<FL+0704<TRA0039:0094:0084:0015
+
+#0105
+<KEY<FAO0004<TRA0039:0094:0091:0012
+
+#0200
+<KEY<MSGDer Mysteriöse Roboter,
+Monster X...<NOD
+Deine Chance ist, 
+anzugreifen, 
+wenn es sich öffnet.<NOD<END
+
+
+#0300
+<KEY<MSGIch bin Arzt.<NOD
+Hier, lass mich dir helfen.<NOD<CLO<LI+1000<SOU0020
+<FLJ0704:0304
+<FLJ0702:0303
+<ITJ0016:0302
+<FLJ0700:0301<FL+0700<WAI0050
+<MSGOh, nein, nein, 
+keine Bezahlung.<NOD<CLRStattdessen 
+möchte ich dich etwas fragen.<NOD<CLRHier ist eine alte Klinik 
+in der Nähe.<NOD
+Schau doch nach, 
+ob dort noch etwas 
+Medizin liegt.<NOD<CLR
+<GIT1017<IT+0017Du hast den =Klinik Schlüssel= 
+bekommen.<NOD<GIT0000<END
+#0301
+<KEY<MSGDie Klinik ist nicht weit weg.<NOD
+Such dort nach etwas 
+brauchbarer Medizin.<NOD<END
+#0302
+<KEY<MSG<IT-0016<FL+0702
+<GIT1016=Alleskurierende Pille= 
+übergeben.<NOD<CLR<GIT0000Oh, du hast es gefunden!<NOD
+Vielen Dank.<NOD
+Ich erledige den Rest.<NOD<END
+#0303
+<KEY<MSGVielen Dank.<NOD
+Ich erledige den Rest.<NOD<END
+#0304
+<KEY<MSGSieht aus, 
+als würde die Medizin anschlagen.<NOD
+Bald wird sie wieder 
+auf den Beinen sein.<NOD
+Alles nur dank dir.<NOD<END
+
+#0310
+<FLJ0704:0313
+<FLJ0702:0312
+<FLJ0701:0311
+<KEY<MSGIch bin eine Krankenschwester.<NOD
+Normalerweise arbeite ich 
+in der Klinik,<NOD
+Aber sie wurde von 
+Geistern heimgesucht, 
+und ich bin hier hingeflohen.<NOD<END
+#0311
+<KEY<MSGBist du ein Freund von ihr?<NOD
+Wenn du dich um sie sorgst, 
+rate ich dir, 
+den Anweisungen des 
+Arztes zu folgen.<NOD<END
+#0312
+<KEY<MSGGut gemacht.<NOD
+Du hast nicht zufällig ein 
+paar Geister gesehen?<NOD<END
+#0313
+<KEY<MSGOh, bist du gekommen, 
+um nach dem Mädchen zu sehen?<NOD<CLRSie ist gerade zur
+"Felsenkammer" aufgebrochen.<NOD<END
+
+#0320
+<FLJ0702:0322
+<FLJ0701:0321<FL+0701
+<KEY<MSG<FAC0019Oh, hey!<NOD<CLRLange nicht gesehen.<NOD
+Du siehst gut aus!<NOD<CLRDiese Hexe hat auch dich 
+hierhin verfrachtet, oder?<NOD
+Genau wie mich!<NOD<CLR<FAC0020Also konntest du sie 
+am Ende doch nicht 
+besiegen...<NOD
+Ich hatte es gehofft, 
+aber nun......<NOD<CLRAuch ich habe 
+es versucht.
+Und wie ich es 
+versucht habe.<NODAber, wie gesagt, 
+nur versucht.<NOD
+Und jetzt sieh, 
+wohin es mich geführt hat.<NOD<CLR.....<NOD<CLRAlles umsonst.<NOD
+Letztendlich konnte ich 
+keines der Kinder retten.<NOD
+In der Verfassung, 
+in der ich mich gerade 
+befinde, werde ich hier 
+wohl nicht so schnell 
+rauskommen...<NOD<END
+#0321
+<KEY<MSG<FAC0020Ich habe überlebt, ja, 
+aber zu welchem Preis?<NOD<CLRWarscheinlich werde 
+ich hier einfach 
+rusitzen und mir selbst 
+beim verotten zusehen...<NOD<END
+#0322
+<KEY<MSG<FAC0020Das hier ist das 
+legendäre Labyrinth.<NOD
+Ich weiß nicht, 
+wer es gemacht hat, 
+aber es ist 
+angeblich die Müllhalde 
+der Insel.<NOD<CLREs gibt nur einen Ausweg<NOD
+Man muss am großen 
+Felsen in der 
+Felsenkamer vorbei.<NOD<CLRIch würde gerne 
+mit dir kommen,<NOD
+doch in meiner Verfassung 
+wäre ich dir nur im Weg...<NOD<FL+0760<FL+0703<END
+
+
+#0400
+<KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
+<MSGSchatztruhe geöffnet.<NOD<GIT1019<IT+0019<EQ+0004<CLR
+<CMU0010Du hast den =Arms Barrier= 
+gefunden!<WAI0160<NOD<RMU<END
+

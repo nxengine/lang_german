@@ -1,0 +1,371 @@
+#0000
+<FRE<WAI9999<END
+
+#1000
+<MSG<TURKeine Waffe.<WAI9999<END
+#1001
+<MSG<TUR- Snake -
+Schießt durch Wände.Von Chaba 
+im Labyrinth hergestellt.<WAI9999<END
+#1002
+<MSG<TUR- Polar Star -
+Die Basis-Waffe.
+Sie trägt die Marke von Polaris
+<WAI9999<END
+#1003
+<MSG<TUR- Feuerball -
+Rollt den Boden entlang. Weniger 
+stark an aufsteigenden Hängen.<WAI9999<END
+#1004
+<MSG<TUR- Maschinengewehr -
+Eine automatische Schnellfeuer-Waffe.
+Lädt sich von selbst auf.<WAI9999<END
+#1005
+<MSG<TUR- Raketenwerfer -
+Hohe Reichweite und große Schlagkraft.
+Seine Munition ist begrenzt.<WAI9999<END
+#1007
+<MSG<TUR- Blasenwerfer -
+Aus der Feuerstelle in der Versammlungshalle.
+Wie du ihn verwendest, sei dir übelassen.<WAI9999<END
+#1009
+<MSG<TUR- Schwert -
+Eine hochgradig gefährliche Waffe. Die 
+Seele von King lebt in ihr weiter.<WAI9999<END
+#1010
+<MSG<TUR- Super Rakete -
+Eine besonders starke Sorte von Raketen.
+Ihre Ausstattung ist nicht begrenzt.<WAI9999<END
+#1012
+<MSG<TUR- Nemesis -
+Das Licht der Götter.
+Für Fortgeschrittene Spieler.<WAI9999<END
+#1013
+<MSG<TUR- Spur -
+Feuerknopf gedrückt halten,
+um einen starken Laser abzufeuern.<WAI9999<END
+
+#1100
+<MSG<TURHajime<WAI9999<END
+#1101
+<MSG<TURMick<WAI9999<END
+#1102
+<MSG<TURShinobu<WAI9999<END
+#1103
+<MSG<TURKakeru<WAI9999<END
+#1104
+<MSG<TURNene<WAI9999<END
+
+#1200
+<MSG<TURJenkas Haustier und 
+Anführer der Hunde.<NOD<CLR
+Auf der Suche nach seinen Brüdern 
+ist er verloren gegangen
+und wurde von Curly aufgenommen.<NOD<WAI9999<END
+#1201
+<MSG<TURJenkas Haustier. 
+Liebt die Schatzsuche.<NOD<CLR
+Oder =Schatztruhen=, und hat 
+sich inzwischen sogar angewöhnt, 
+in ihnen zu schlafen.<NOD<WAI9999<END
+#1202
+<MSG<TURJenkas Haustier. 
+Liebt dunkel Plätze.<NOD<CLR
+Wegen seines schlechten Augenlichts 
+orientiert er sich an dunklen 
+Plätzen mithilfe seiner <NOD<CLR
+tierischen Instinkte.<NOD<WAI9999<END
+#1203
+<MSG<TURJenkas Haustier. 
+Vergötter Knochen und hat schon 
+viele von ihnen an unzähligen <NOD<CLR
+Plätzen vergraben. 
+Die meisten sind heutzutage 
+vergessen.<NOD<WAI9999<END
+#1204
+<MSG<TURJenkas Haustier. 
+Sie verbringt ihre Zeit schlafend.<NOD<CLR 
+aber ihre Träume 
+sind bekannt dafür,<NOD<CLR
+die Zukunft zu deuten.<NOD<WAI9999<END
+
+#5000
+<MSG<TURKein Gegenstand.<WAI9999<END
+#5001
+<MSG<TURArthurs Schlüssel<WAI9999<END
+#5002
+<MSG<TURKarten System<WAI9999<END
+#5003
+<MSG<TURSantas Schlüssel<WAI9999<END
+#5004
+<MSG<TURSilberner Anhänger<WAI9999<END
+#5005
+<MSG<TURMonster-Reißzahn<WAI9999<END
+#5006
+<MSG<TURLife Capsule<WAI9999<END
+#5007
+<MSG<TURID Card<WAI9999<END
+#5008
+<MSG<TURJellyfish Juice<WAI9999<END
+#5009
+<MSG<TURRostiger Schlüssel<WAI9999<END
+#5010
+<MSG<TURGummi Schlüssel<WAI9999<END
+#5011
+<MSG<TURGummi<WAI9999<END
+#5012
+<MSG<TURKohle<WAI9999<END
+#5013
+<MSG<TURBombe<WAI9999<END
+#5014
+<FLJ3000:1100
+<FLJ3001:1101
+<FLJ3002:1102
+<FLJ3003:1103
+<FLJ3004:1104
+<MSG<TURHund<WAI9999<END
+#5015
+<MSG<TURLebenstopf<WAI9999<END
+#5016
+<MSG<TURAlleskurierende Pille<WAI9999<END
+#5017
+<MSG<TURKlinik Schlüssel<WAI9999<END
+#5018
+<MSG<TURBooster v0.8<WAI9999<END
+#5019
+<MSG<TURArms Barrier<WAI9999<END
+#5020
+<MSG<TURTurbolader<WAI9999<END
+#5021
+<MSG<TURCurlys Sauerstofftank<WAI9999<END
+#5022
+<MSG<TURNikumaru Zähler<WAI9999<END
+#5023
+<MSG<TURBooster v2.0<WAI9999<END
+#5024
+<MSG<TURMimiga Maske<WAI9999<END
+#5025
+<MSG<TURTeleporter Raum Schlüssel<WAI9999<END
+#5026
+<MSG<TURSues Brief<WAI9999<END
+#5027
+<MSG<TURFernbedienung<WAI9999<END
+#5028
+<MSG<TURDefekter Sprinkler<WAI9999<END
+#5029
+<MSG<TURSprinkler<WAI9999<END
+#5030
+<MSG<TURSeil<WAI9999<END
+#5031
+<MSG<TURLehmfiguren-Medaille<WAI9999<END
+#5032
+<MSG<TURKleiner Mann<WAI9999<END
+#5033
+<MSG<TURPilzplakette<WAI9999<END
+#5034
+<MSG<TURMa Pignon<WAI9999<END
+#5035
+<MSG<TURCurlys Unterwäsche<WAI9999<END
+#5036
+<MSG<TURAlien Medaille<WAI9999<END
+#5037
+<MSG<TURChacos Lippenstift<WAI9999<END
+#5038
+<MSG<TURWhimsical Star<WAI9999<END
+#5039
+<MSG<TUREisernes Band<WAI9999<END
+
+#6000
+<MSG<TURKein Gegenstand.<WAI9999<END
+#6001
+<MSG<TURDer Schlüssel zu Arthurs Haus.
+Er war nahe Arthurs 
+Grabstein versteckt.<WAI9999<END
+#6002
+<PRI<EVE7002<MPJ7002<MSGKeine Daten für diese Gegend.<NOD<CLR<END
+#6003
+<MSG<TURDer Schlüssel zu Santas Haus.<WAI9999<END
+#6004
+<MSG<TUREin silberener Anhänger 
+in Form einer Fisches.<NOD<CLR
+In dem Zustand, in dem er 
+sich befindet, muss er für Jahre 
+eingeschlossen gewesen sein.<NOD<WAI9999<END
+#6005
+<MSG<TUREin scharfer Raubtierzahn. 
+Ist sein Besitzer immer 
+noch am leben?...?<WAI9999<END
+#6006
+<MSG<TUREine Lebenskapsel.<WAI9999<END
+#6007
+<MSG<TUREine ID Card aus Ei Nr. 06.<WAI9999<END
+#6008
+<MSG<TUREine Flüssigkeit, 
+die Feuer löschen kann.<WAI9999<END
+#6009
+<MSG<TUREin rostiger Schlüssel.<WAI9999<END
+#6010
+<MSG<TUREin Schild zeigt "Gummi".<WAI9999<END
+#6011
+<MSG<TUREin Klumpen Gummi.<WAI9999<END
+#6012
+<MSG<TURAus einer Feuerstelle.<WAI9999<END
+#6013
+<MSG<TUREine Bombe um Türen 
+und Ähnliches zu sprengen.<WAI9999<END
+#6014
+<FLJ3000:1200
+<FLJ3001:1201
+<FLJ3002:1202
+<FLJ3003:1203
+<FLJ3004:1204
+<MSG<TURJenkas Haustier.<WAI9999<END
+#6015
+<KEY<MSGDies wird deine Gesundheit 
+ein einzieges Mal wiederherstellen. 
+Willst du es benutzen?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Gesundheit wiederhergestellt.<FRE<WAI9999<END
+#6016
+<MSG<TURAngeblich heilt sie jede 
+Verletzung und Krankheit...<WAI9999<END
+#6017
+<MSG<TURDa steht "Labyrinth Klinik".<WAI9999<END
+#6018
+<FLJ0742:7018
+<KEY<MSGDrück die Sprungtaste, 
+wenn du in der Luf bist, 
+um noch höher zu springen.<NOD<CLR
+Willst du ihn ausrüsten?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+Booster ausgerüstet.<NOD<WAI0003<FRE<EVE5018
+#6019
+<MSG<TURHalbiert die Waffenenergie, 
+die du verlierst, wenn 
+du verletzt wirst.<WAI9999<END
+#6020
+<MSG<TURHalbiert die Zeit, 
+die das Maschinengewehr braucht,
+um sich wiederaufzuladen.<WAI9999<END
+#6021
+<MSG<TURDu kannst damit unter Wasser Atmen. 
+Curly hat es immer benutzt.<WAI9999<END
+#6022
+<MSG<TUREine automatische Stoppuhr. 
+Man kann keine Knöpfe erkennen.<WAI9999<END
+#6023
+<FLJ0743:7023
+<KEY<MSGDrücke die Sprungtaste, 
+wenn du in der Luft bist, 
+um  in irgendeine Richtung 
+zu beschleunigen.<NOD<CLR
+Willst du ihn ausrüsten?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+Booster v2.0 ausgerüstet.<NOD<WAI0003<FRE<EVE5023
+#6024
+<MSG<TUREien Mimiga-Maske, 
+die Sues Mutter gemacht hat.
+Sie ist ein bisschen zu groß...<WAI9999<END
+#6025
+<MSG<TUREin Schlüssel, 
+der aus dem See unter 
+der Plantage gefischt wurde.<WAI9999<END
+#6026
+<KEY<MSGWirst du ihn lesen?<YNJ0000<MSG<TUR
+Das ist Sue.<NOD<CLRIch glaube nicht, 
+dass man dir jemals 
+viel über uns erzählz hat.<NOD<CLRWir sind von der Oberfläche 
+gekommen, um Nachforschungen 
+zu betreiben.<NOD<CLRProf. Booster war mit uns in 
+unserem Helikopter, und auch 
+meine Mutter, mein Bruder,<NOD<CLReinige Assistenten...
+Auch der Doktor.<NOD<CLREr war unser Notfall-Arzt,
+und er hat seine 
+Sache gut erledigt...<NOD<CLRNaja, 
+bis er die Dämonenkrone fand...<WAI0020<NOD<CLRDiese Krone, 
+die einst den mächtigen 
+Herrschern der Insel gehörte,<NOD<CLRverleiht dem Träger 
+unglaubliche magische Kräfte...<NOD<CLRAber der Doktor wusste 
+das schon bevor er mit 
+uns aufbrach,<NOD<CLRund nur darum
+ist er mitgekommen, 
+um an erster Stelle zu sein.<NOD<CLRNachdem er die Krone in seiner 
+Gewalt hatte, konnte ihm 
+niemand mehr die Stirn bieten.<NOD<CLRWir hatten keine andere Wahl
+als die Nachforschungen, nun unter 
+seinem Kommando, fortzuführen.<NOD<CLRDer Doktor hat vor, 
+die Weltherrschaft zu übernehmen, und diese 
+Insel soll seine Basis werden.<NOD<CLRIch denke, er wird zuallererst 
+die Oberfläche angreifen, indem er die 
+Mimigas als Waffe verwendet.<NOD<CLRJedenfalls habe ich es 
+geschafft zu entkommen, aber ich 
+fürchte, dass die anderen Forscher...<NOD<CLRNun benutzt er die nichtsahnenden 
+Mimigas hier, um noch viel mehr 
+rote Blumen zu züchten.<NOD<CLRWenn er genug hat, wird er sie 
+benutzen, um die Mimigas in 
+wahnsinnige Massenmörder zu verwandeln.<NOD<CLRMit seinen schrecklichen Kräften 
+hat er die Macht, die Mimigas nach 
+seinen Wünschen wüten zu lassen.<NOD<CLR
+Und das bedeutet, 
+dass ich auch...<NOD<CLRWenn du aus dieser Zelle 
+entkommen kannst,suche nach dem Geheimversteck 
+im Zentrum der Plantage.<NOD<CLRWenn meine Mutter in Sicherheit 
+ist, wird sie dort sein,zusammen mit 
+einem Plan für einen Gegenschlag.<NOD<CLRBitte. Hilf meiner Mutter.<NOD<CLRDas Passwort ist
+"Litagano Motscoud".<NOD<CLR<FL+1024<FRE<MSGDer Brief endet hier...<WAI9999<END
+#6027
+<MSG<TURNotwendig, um eine Rakete zu bauen.
+Ithos ganzer Stolz.<WAI9999<END
+#6028
+<MSG<TUREin kaputter Sprinkler.<WAI9999<END
+#6029
+<MSG<TUREr ist brandneu. ...Hoffentlich.<WAI9999<END
+#6030
+<MSG<TUREin Seil für Roboter.<WAI9999<END
+#6031
+<MSG<TURKlein und sehr schwer.
+Es hat keinen Nutzen.<WAI9999<END
+
+#6032
+<MSG<TURHey! Sind wir schon da?<WAI9999<END
+#6033
+<MSG<TURDie Pilzplakette, die du von 
+Ma-Pignon bekommen hast. 
+Sie hat keinen echten Nutzen.<FL+1563<WAI9999<END
+#6034
+<MSG<TURAngeblich kann er Erinnerungen 
+wiederherstellen...<WAI9999<END
+#6035
+<MSG<TURGefunden im Geheimversteck.
+Ein Paar grün-gelbe Unterhosen 
+mit einem kleinen Zeichen.<WAI9999<END
+#6036
+<MSG<TUREine Alien ist darin eingraviert
+Sie hat keinen Nutzen.<WAI9999<END
+#6037
+<MSG<TURRoter Lippenstift.
+Er hat keinen Nutzen.<WAI9999<END
+#6038
+<KEY<MSGEine kleine Aufmerksamkeit, 
+die du von Chaba im 
+Labyrinth bekommen hast.
+Ein whimsical star.<NOD<FLJ0722:7038<CLR
+Willst du ihn ausrüsten?<YNJ0000<EQ+0128<FL+0722<MSG
+Whimsical Star ausgerüstet.<NOD<WAI0003<FRE<EVE5038
+#6039
+<MSG<TURDein Band zu Curly Brace, der 
+einzigen Person, der du deinen Rücken 
+zukehren würdest. Sicher werdet ihr euch 
+eines Tages wiedersehen...<WAI9999<END
+
+#7002
+<MLP<END
+
+#7018
+<KEY<MSGWillst du ihn entfernen?<YNJ0000<EQ-0001<FL-0742<MSG
+Booster entfernt.<NOD<WAI0003<FRE<EVE5018
+#7023
+<KEY<MSGWillst du ihn entfernen?<YNJ0000<EQ-0032<FL-0743<MSG
+Booster v2.0 entfernt.<NOD<WAI0003<FRE<EVE5023
+
+#7038
+<KEY<MSGWillst du ihn entfernen?<YNJ0000<EQ-0128<FL-0722<MSG
+Whimsical Star entfernt.<NOD<WAI0003<FRE<EVE5038
+
