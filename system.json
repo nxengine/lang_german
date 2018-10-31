@@ -8,10 +8,13 @@
   "Reset" : "Zurücksetzen",
   "Resume" : "Fortsetzen",
 
+  "Graphics": "Grafik",
+  "Sound": "Audio",
+
   "Resolution: ": "Bildschirmgröße: ",
   "Fullscreen: ": "Vollbild: ",
-  "On": "aktivieren",
-  "Off": "deaktivieren",
+  "On": "An",
+  "Off": "Aus",
   "Boss Only": "Nur Boss",
   "Controls": "Kontrollen",
   "Music: ": "Musik: ",
@@ -20,9 +23,15 @@
   "New": "Neu",
   "Remastered": "Remastert",
   "Sound: ": "Soundeffekte: ",
+
+  "SFX volume: ": "Soundlautstärke: ",
+  "Music volume: ": "Musiklautstärke: ",
+
   "Language: ": "Sprache: ",
-  "Return": "Zurückkehren",
+  "Return": "Zurück",
   "Force feedback: ": "Vibration: ",
+  "Bind keys": "Schlüssel zuordnen",
+  "Strafing: ": "Geh zurück: ",
   "Left": "Links",
   "Right": "Rechts",
   "Up": "Oben",
@@ -34,6 +43,7 @@
   "Inventory": "Inventar",
   "Map": "Karte",
   "Pause": "Pause",
+  "Strafe": "Geh zurück",
 
   "Null": "Null",
   "Arthur's House": "Arthurs Haus",
