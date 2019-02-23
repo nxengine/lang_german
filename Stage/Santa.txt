@@ -19,21 +19,20 @@
 
 
 #0120
-<KEY<MSG<TURAchtung! Todesfalle zu deiner linken.
-Eine einzige Berührung bedeutet 
+<KEY<MSG<TURWARNUNG! Links liegt eine Todesfalle.
+Nur eine Berührung bedeutet den
 sofortigen Tod!<NOD<END
 
 
 #0300
 <ITJ0008:0301
-<KEY<MSG*Brutzel* *Knister!*<NOD<FLJ0242:0000
-Die Kohle brennt fabelhaft.<NOD<END
+<KEY<MSG*Knister!*<NOD<FLJ0242:0000
+Die Kohle glüht und fackelt.<NOD<END
 #0301
-<KEY<GIT1008<MSGWillst du die
-=Jellyfish Juice= benutzen?<YNJ0000<CLO<GIT0000
+<KEY<GIT1008<MSGWillst du den
+=Quallensaft= reinwerfen?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0242:0302<FL+0242
-<MSG Du findest etwas in der Asche...<NOD<CLR<GIT1012<IT+0012
-<CMU0010Hast die =Kohle= gefunden.<WAI0160<NOD<CLO<RMU<DNP0300<END
+<MSGDa liegt etwas in der Asche...<NOD<CLR<GIT1012<IT+0012<CMU0010Du hast =Kohle= gefunden!<WAI0160<NOD<CLO<RMU<DNP0300<END
 
 #0302
 <KEY<DNP0300<END
@@ -45,29 +44,31 @@ Die Kohle brennt fabelhaft.<NOD<END
 <FLJ0484:0504
 <FLJ0241:0503
 <FLJ0240:0502
-<KEY<FL+0240<MSGDanke, du hast mir wirklich 
-die Haut gerettet.<NOD
-Hier, das schenke ich dir.<NOD<GIT0003<AM+0003:0000<CLR
-<CMU0010Du hast den =Feuerball= 
-bekommen!<WAI0160<NOD<RMU<GIT0000<CLRSuchst du jemanden?<NOD
-Ich habe niemanden da 
-draußen gsehen.<NOD
-Wenn du tiefer rein willst, 
-musst du zuerst<NOD
-durch die Feuerstelle in 
-Chacos Haus...<NOD<FL+0241<END
-#0503
-<KEY<MSGDu kannst in den inneren Teil 
-von Grasstown nur durch Chacos 
-Feuerstelle gelangen.<NOD<END
-#0504
-<KEY<MSGDu brauchst =Kohle=?<NOD
-Du kannst etwas aus meinem Kamin 
-nehmen, wenn du willst.<NOD<END
-#0505
-<KEY<MSGWofür brauchst du die Kohle?<NOD<END
-#0506
-<KEY<MSGVor kurzer Zeit gab es da draußen 
-einen unheimlich lauten Knall.<NOD
-Das und Angstschreie...<NOD<END
+<KEY<FL+0240<MSGHey danke, du hast mir echt aus
+der Tinte geholfen.<NOD Hier,
+das kriegst du als Dankeschön.<NOD<GIT0003<AM+0003:0000<CLR<CMU0010Du hast den =Feuerball= bekommen!<WAI0160<NOD<RMU<GIT0000<CLRDu suchst jemanden?<NOD
+Also ich hab niemanden hier
+in der Gegend gesehen.<NOD
+Aber wenn du noch tiefer
+ins Gestrüpp willst,<NOD
+musst du zuerst durch den Kamin
+in Chacos Haus schlüpfen...<NOD<FL+0241<END
 
+#0503
+<KEY<MSGHinter Chacos Kamin findest
+du den Weg bis ins tiefere
+Buschhausen.<NOD<END
+
+#0504
+<KEY<MSGDu brauchst ein Stück =Kohle=?<NOD
+Nimm dir ruhig ein paar
+aus meinem Kamin, wenn du willst.<NOD<END
+
+#0505
+<KEY<MSGWozu brauchst du die Kohle
+überhaupt?<NOD<END
+
+#0506
+<KEY<MSGIch hab vorhin einen Knall
+draußen gehört.<NOD
+Und ganz lautes Gekreische...<NOD<END

@@ -27,23 +27,23 @@
 
 
 #0120
-<PRI<FLJ1393:0121<MSGSie lässt sich nicht öffnen!<NOD<END
+<PRI<FLJ1393:0121<MSGSie geht nicht auf!<NOD<END
 #0121
 <KEY<FAO0004<FOM0016<TRA0079:0094:0010:0008
 
 
 #0199
-<PRI<CMU0033<MSGDanke für euren Test, 
-der nächste Teil ist noch 
-in der Entwicklung...<NOD<RMU<END
+<PRI<CMU0033<MSGVielen Dank an alle Tester!
+Der Teil hier ist noch
+im Aufbau...<NOD<RMU<END
 
 #0200
-<KEY<MYD0000<DNP0200<MSGEtwas weiter, 
-und du wirst herunterfallen!<NOD<END
+<KEY<MYD0000<DNP0200<MSGNur noch ein Stückchen
+und du fällst runter!<NOD<END
 
 #0201
 <PRI<MSG<TUR
-Das war's, Leute!<NOD<END
+DAS WAR'S, LEUTE!<NOD<END
 
 #0210
 <PRI<FLJ1191:0211<FLJ1192:0212
@@ -69,18 +69,19 @@ Das war's, Leute!<NOD<END
 <KEY<HMC<FON0300:0016
 <WAI0080<ANP0299:0020:0002
 <SPS<WAI0020
-<MSGEr läuft!<NOD<CLO<FAI0001<WAI0050
+<MSGEr läuft noch!<NOD<CLO<FAI0001<WAI0050
 <CNP0291:0217:0000<ANP0291:0040:0000<WAI0050
 <ANP0290:0000:0000<WAI0020
-<MSG<FAC0028Wir haben genug Treibstoff, 
-wir können jederzeit weg.<NOD<CLRHeh... 
-Ich hätte niemals 
-gedacht, dass ich 
-jemals zur Oberfläche
-zurückkehre...<NOD<CLO<FAC0000
+<MSG<FAC0028Und genug Treibstoff
+haben wir auch!<NOD
+Wir können jederzeit
+weg hier!<NOD<CLRHaah...<NOD 
+Ich hätte nie geträumt
+dass wir jemals wieder
+nach Hause kommen...<NOD<CLO<FAC0000
 <ANP0291:0050:0000<WAI0016
-<MSG<FAC0022Ich frage mich, ob es 
-ihnen gut geht...<NOD<CLO
+<MSG<FAC0022Ich hoffe die Kinder
+sind wohlauf...<NOD<CLO
 <FAC0000<WAI0016
 <QUA0010
 <ANP0290:0003:0000
@@ -90,8 +91,9 @@ ihnen gut geht...<NOD<CLO
 <CNP0294:0279:0002<WAI0100
 <ANP0291:0042:0000
 <ANP0290:0000:0000
-<MSG<FAC0028Ein Erdbeben...?<NOD<CLR<FAC0022Der Kern...?
-Das kann nicht sein!<NOD<CLO
+<MSG<FAC0028Ein Erdbeben...?<NOD<CLR<FAC0022Doch nicht etwa
+der Kern?<NOD
+Das darf doch nicht...!<NOD<CLO
 <FAO0003<FOM0016<CPS<MYD0002<TRA0068:0600:0024:0013
 <END
 
@@ -102,9 +104,9 @@ Das kann nicht sein!<NOD<CLO
 <KEY<MYD0000<CMU0018<FL-1190<FL-1191<FL+1192<FAI0000
 <ANP0305:0011:0002
 <ANP0280:0010:0000
-<FON0305:0016<MS3<FAC0003Hier drüben!<NOD
-Renn um dein Leben, 
-oder du wirst zerschmettert!!<NOD<FON0280:0016<CLO
+<FON0305:0016<MS3<FAC0003HIERHER!<NOD
+LAUF WAS DU KANNST! SONST
+WIRST DU ZERQUETSCHT!!<NOD<FON0280:0016<CLO
 <ANP0305:0030:0000<WAI0060
 <DNP0305<FL-1391<END
 #0320Su-2
@@ -112,13 +114,13 @@ oder du wirst zerschmettert!!<NOD<FON0280:0016<CLO
 #0330
 <KEY<DNP0330<MYD0000<ANP0320:0000:0002
 <WAS<WAI0050
-<FON0320:0016<MSG<FAC0001Weiter geht es nicht. 
-Wir müssen springen.<NOD
-Entweder so, oder wir 
-bleiben hier und lassen 
-uns von den Felsen 
-zerquetschen!<NOD<CLRBereit?<NOD
-Spring soweit du kannst!<NOD<CLO<KEY
+<FON0320:0016<MSG<FAC0001Tja, hier ist leider 'ne
+Sackgasse...<NOD
+Wir können entweder hier
+rumsitzen und warten<NOD bis
+uns ein Brocken erwischt...<NOD<CLROder wir können springen.<NOD<CLRFertig?<NOD
+Spring so weit wie du
+nur kannst!<NOD<CLO<KEY
 <ANP0320:0000:0000<WAI0050
 <ANP0320:0030:0000<WAI0012
 <ANP0320:0040:0000<WAI0050
@@ -131,12 +133,10 @@ Spring soweit du kannst!<NOD<CLO<KEY
 <ANP0500:0030:0002<WAI0001
 <FON0500:0016<MOV0020:0030
 <DNP0307<DNP0280
-<WAI0100<FAI0004
-<MSG<FAC0022
-Die Insel stürzt auf 
-die Oberfläche...<NOD<CLR<FAC0028Es ist zu gefährlich, 
-wir müssen hier raus!<NOD<CLO<FAO0004
+<WAI0100<FAI0004<MSG<FAC0022Die Insel fällt...<NOD<CLR<FAC0028Wir können nicht länger
+warten, es ist zu
+gefährlich!<NOD<CLRWir müssen hier weg,
+und zwar gleich!<NOD<CLO<FAO0004
 <CMU0035<TRA0049:1200:0098:0006
 
 #0500
-

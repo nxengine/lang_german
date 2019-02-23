@@ -26,34 +26,30 @@
 
 #0500
 <DNP0500<MYD0002
-<KEY<MSGWillkommen.<NOD<CLR
-<FAC0029Ich bin Ballos.<NOD<CLRVor vielen, 
-viele Jahren,
-unter der Bürde 
-grausamer Folter,<NOD<CLRerlaubte ich meiner 
-Magie, sich zu 
-entfalten...<NOD<CLRDie Magie wurde 
-so stark, dass selbst 
-ein Meister sie nicht 
-kontrollieren konnte.<NOD<CLRAls ich nach oben stieg, 
-berauscht von der Kraft,<NOD<CLRnahm ich all die von mir, 
-die ich liebte. 
-Meine Kinder, 
-meine geliebte Frau...<NOD<CLRIhre Schreie übertönten 
-die Flammen.<NOD<CLRIch konnte meine 
-Augen nicht abwenden, 
-also musste ich dort 
-stehenbleiben und 
-zusehen...<NOD<CLRLachend...<NOD<CLRJenka hat mich 
-weggesperrt, aber 
-meine Magie konnte 
-auch sie nicht bannen.<NOD<CLRLange, lange habe 
-ich gewartet...<NOD<CLRAuf denjenigen, 
-der mich endlich 
-von dieser Qual 
-befreien kann...<NOD<CLRNun, töte mich!<NOD
-Oder ich--<NOD
-sollte dich töten!!<NOD<CLO
+<KEY<MSGSeid willkommen.<NOD<CLR<FAC0029Ich bin Ballos.<NOD<CLRVor Äonen von Jahren
+setzte ich meiner
+Hexenkraft freien Lauf,<NOD<CLRaus Furcht, um noch mehr
+Pein und Strafe ertragen
+zu müssen...<NOD<CLREine so mächtige
+Hexenkraft,<NOD die selbst
+für seinen Besitzer
+unbändig war.<NOD<CLRIn ihrem unbändigen Wahn,
+nahm mir diese Kraft<NOD
+meine liebsten Menschen,
+meine Kinder,
+meine Frau...<NOD<CLRIn den Flammen ertranken
+ihre Entsetzensschreie.<NOD<CLRMein Blick war nicht
+abzuwenden,<NOD und so
+genoss ich das wahnwitzige
+Spektakel...<NOD<CLRUnd lachte...<NOD<CLREs gelang Jenka mich zu
+bändigen, auch wenn meine
+Kraft noch immer tobt.<NOD<CLRLange, lange habe ich
+gewartet...<NOD<CLRAuf denjenigen, der
+meiner Rage endlich ein
+Ende machen könne...<NOD<CLRHier seid ihr...<NOD
+Und nun...<NOD
+müsst ihr mich töten!<NOD<CLRAnsonsten--<NOD
+MÜSST IHR STERBEN!!<NOD<CLO
 <CMU0004
 <ANP0402:0100:0900<FON0402:0016
 <BSL0900<ANP0900:0010:0000<END
@@ -87,4 +83,3 @@ sollte dich töten!!<NOD<CLO
 <KEY<FOB0000:0016
 <BOA1000<WAI0200
 <STC<TRA0091:0110:0000:0000
-

@@ -71,7 +71,7 @@
 <PRI<FAO0001<FOM0016<TRA0082:0096:0008:0014
 
 #0110
-<PRI<MSGSie lässt sich icht öffnen.<NOD<END
+<PRI<MSGSie geht nicht auf.<NOD<END
 
 
 #0120
@@ -89,10 +89,9 @@
 
 #0900
 <DNP0900<SKJ0026:0000<SK+0026
-<PRI<MS3Selbst wenn die Krone 
-zerstört ist,<NOD
-wird sie sich nur wieder erheben, 
-so lange Ballos noch ab Leben ist.<NOD
-So stark ist seine Seele, 
-die die Krone innehält.<NOD<END
-
+<PRI<MS3Die =Teufels-Krone= ist
+unzerstörbar<NOD und wird immer
+wiedergeboren, solange
+Ballos noch lebt...<NOD
+Denn in der Krone steckt die
+unermessliche Kraft seiner Seele.<NOD<END

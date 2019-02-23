@@ -21,24 +21,25 @@
 #0200
 <PRI
 <FLJ1371:0201
-<MSGJa? 
-Was willst du von mir?<NOD<END
+<MSG...was willst du?<NOD<END
+
 #0201
-<PRI<MSGDu sagst, 
-meine Frau sucht nach mir??<NOD<CLR
-Ja, das könnte stimmen,<NOD
-ich sollte schon 'n  
-bisschen früher zu 
-Hause sein.<NOD
-Na denn, Zeit zu gehen.<NOD<GIT1032<DNP0200<IT+0032<CLRDu nimmst mich ja 
-sicher mit?<NOD<END
+<PRI<MSGBitte? Meine Frau ruft nach mir?<NOD<CLR
+Ah, stimmt ja!<NOD
+Ich war schon 'ne ganze Weile
+nicht mehr Zuhause.<NOD
+Naaa, dann mal Ruckzuck heim
+mit mir!<NOD<GIT1032<DNP0200<IT+0032
+<CLRDu nimmst mich doch sicher mit,
+oder?<NOD<END
 
 #0300
 <CNP0300:0000:0000
-<PRI<MSGArthurs Grab.<NOD
-Da steht auf dem Grabstein:<NOD<CLR<MSG<TURHier ruht der Noble Arthur,
-eine wahre Legende unter den Mimigas.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
-<CMU0010<GIT1001<IT+0001Du hast =Arthurs Schlüssel= 
+<PRI<MSG=Arthurs Grab=<NOD
+Da steht etwas auf
+dem Grabstein:<NOD<CLR<MSG<TURHier ruht<NOD
+ARTHUR,<NOD
+der größte Held aller Mimigas.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
+<CMU0010<GIT1001<IT+0001Du hast =Arthurs Schlüssel=
 gefunden!<WAI0160<NOD<CLO
 <RMU<END
-

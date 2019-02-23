@@ -28,7 +28,7 @@
 <FL+0780<FL-0781
 <SOU0011<ANP0110:0000:0002<FAO0002<TRA0046:0150:0003:0009
 #0112
-<PRI<MSGEs lässt sich nicht bewegen...<NOD<END
+<PRI<MSGEs rührt sich keinen Millimeter...<NOD<END
 
 #0300
 #0301
@@ -44,7 +44,7 @@
 
 
 #0330
-<PRI<FLJ0782:0331<MSGDu siehst einen Knopf.<NOD<SOU0043<CLR<MSGDrückst ihn.<NOD<CLO
+<PRI<FLJ0782:0331<MSGDa ist ein Knopf.<NOD<SOU0043<CLR<MSGDu drückst drauf.<NOD<CLO
 <FL+0782
 <WAI0050
 <SOU0071
@@ -53,7 +53,7 @@
 <CMP0026:0031:0111
 <WAI0050<END
 #0331
-<PRI<MSGOffen...<NOD<END
+<PRI<MSGÖffne...<NOD<END
 
 #0400
 

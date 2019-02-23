@@ -15,29 +15,27 @@
 
 #0120
 <KEY<SOU0011<ANP0120:0000:0002<FAO0004<TRA0055:0094:0009:0009
-<MSGDas war alles...<NOD<END
+<MSGDas wär's...<NOD<END
 
 #0130
 <KEY<ITJ0032:0131<SOU0011<ANP0130:0000:0002<FAO0000<TRA0069:0090:0015:0008
 #0131
 <KEY<CMU0000<SOU0011<ANP0130:0000:0002
-<GIT1032<IT-0032<FL+1370<MSGIch bin wieder zu Haaaauuuuuseeeee!<NOD<CLO
+<GIT1032<IT-0032<FL+1370<MSGBin wieder daaa!<NOD<CLO
 <FAO0000<TRA0069:0090:0015:0008
 
 #0140
 <KEY<FAO0000<MYD0000<TRA0094:0090:0014:0007
 
 #0200
-<PRI<MSGEin Zeichen?<NOD<END
+<PRI<MSGEin Schild?<NOD<END
 
 #0400
-<KEY<FLJ0960:0401<MSG<FAC0010Wenn du nach 
-dem Kern suchen willst,
-solltest du dich 
-besser beeilen.<NOD<END
+<KEY<FLJ0960:0401<MSG<FAC0010Wenn du den Kern suchst,
+dann beeil dich lieber.<NOD<END
 #0401
 <KEY<CLO<FON0410:0016<WAI0050
-<MSG<FAC0010Get <MYD0000on.<NOD<CLO
+<MSG<FAC0010Dann steig <MYD0000auf.<NOD<CLO
 <CNP0420:0150:0000<HMC
 <ANP0400:0003:0000<WAI0032
 <ANP0400:0000:0002<WAI0032
@@ -45,39 +43,34 @@ besser beeilen.<NOD<END
 <ANP0420:0000:0002<WAI0032
 <DNP0400<DNP0420
 <ANP0410:0010:0002<WAI0200
-<MSG<FAC0010Halt dich fest.<NOD<CLO<FAC0000
+<MSG<FAC0010Festhalten.<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
-<MSGUnd so seid ihr erfolgreich 
-von der Insel geflohen.<WAI0200<CLRNach langer Zeit begann 
-der Doktor, 
-die Erde anzugreifen, 
-indem er die schwebende Insel 
-als Basis benutzte.<WAI0200<CLRWaren die Läder der 
-Erde stark genug, 
-dem Angriff des Doktors 
-zu wiederstehen?<WAI0200<CLR<FAO0002Aber es hätte für 
-euch auch keinen 
-Unterschied gemacht.<WAI0200<CLRZusammen, 
-tief in den innersten Gebirgen,<WAI0200<CLRhast du mit Kazuma außerhalb der 
-Reichweite des Doktors 
-den Rest deines Lebens verbracht...<WAI0200<CLR<CMU0026
+<MSGUnd so konntet ihr behutsam
+von der Insel fliehen.<WAI0200<CLRSchon sehr bald begann der Doktor
+seinen Angriff auf die Oberfläche,
+mit der Insel als seine Basis.<WAI0200<CLRKonnten sich die vielen Länder
+der Erde gegen seinen Angriff
+wehren?<WAI0200<CLR
+<FAO0002Es spielte für euch keine Rolle
+mehr.<WAI0200<CLRIrgendwo, tief in den Bergen,
+fandet ihr ein Versteck, wo euch
+der Doktor niemals finden konnte.<WAI0200<CLRUnd so verbrachten Kazuma und du 
+den Rest eures ruhigen,
+bescheidenen Lebens...<WAI0200<CLR<CMU0026
 <TUR                - ENDE -<WAI9999
 <END
 
 
 #0410
-<KEY<MSGGrrrrrr...<NOD<END
+<KEY<MSGGrrrlll...<NOD<END
 #0420
 
 
 #0600
-<KEY<MSGVielen Dank für die 
-Hilfe beim Fehlersuchen.<NOD
-das war es wohl 
-erstmal mit dem Spiel.<NOD
-das nächste Level wird wohl 
-auch das letzte werden.<NOD
-Mal sehen, 
-wie weit ich in zwei Monaten komme...<NOD<END
-
+<KEY<MSGVielen herzlichen Dank beim Debuggen.<NOD
+Weiter geht es wirklich nicht.<NOD
+Ich denke, diese Stage wird auch
+die letzte.<NOD
+Ich frage mich, wie weit ich
+wohl in zwei Monaten komme...<NOD<END

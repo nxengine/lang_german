@@ -17,6 +17,7 @@
 <PRI<FAO0001<TRA0039:0091:0004:0016
 
 #0200
-<PRI<MSGEin Roboter. 
-Besser gesagt, was von ihm übrig ist.<NOD<END
+<PRI<MSGEin Roboter.
+Oder das, was von ihm übrig
+blieb.<NOD<END
 

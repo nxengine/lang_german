@@ -28,41 +28,32 @@
 #0105
 <PRI<MSGMöchtest du speichern?<YNJ0000<SVP<CLRSpiel gespeichert.<NOD<END
 #0106
-<PRI<LI+1000<SOU0020<AE+<MSGEnergie wiederhergestellt.<NOD<END
+<PRI<LI+1000<SOU0020<AE+<MSGEnergie aufgefüllt.<NOD<END
 
 #0200
-<KEY<MSGDas ist unsere Farm.
-Hier ziehen wir Blumen heran.<NOD
-Mein Job ist es, auf die 
-Farm aufzupassen.<NOD<CLRWir Mimigas brauchen 
-diese Blumen als Nahrung.<NOD<CLRRote Blumen sind eine ganz 
-schlechte Sache.<NOD<CLRMan sagt, 
-wenn du eine rote Blume 
-isst, dann beginnt dein 
-Blut zu kochen und du 
-kippst tot um!<NOD<CLRGut, dass hier 
-keine einzige rote 
-Blume wächst.<NOD<END
+<KEY<MSGDas hier ist unsere kleine
+Blumen-Farm.<NOD
+Meine Aufgabe ist es,
+auf die Farm aufzupassen.<NOD<CLRFür uns Mimiga sind Blumen nämlich
+eine wertvolle Nahrungsquelle.<NOD<CLRAber bloß nicht die roten Blumen.<NOD<CLRWer die roten Blumen futtert,
+dem kocht plötzlich das Blut,
+und geht dann sofort drauf!!<NOD<CLRZum Glück wachsen hier
+keine von den roten Dingern.<NOD<END
 
 
 #0220
-<KEY<FLJ1020:0221<MSGEin Sprinkler.<NOD<END
+<KEY<FLJ1020:0221<MSGEin Rasensprenger.<NOD<END
 #0221
-<KEY<MSGEr ist am Boden ngeschraubt!<NOD<END
+<KEY<MSGEr steckt fest im Boden drin!<NOD<END
 
 #0300
 <PRI
 <FL+0410
 <DNP0300
-<MSGDu siehst etwas glitzern...<NOD<CLR<CMU0010<GIT1005<IT+0005
-Du hast den =Raubtier Zahn= 
-gefunden.<WAI0160<NOD<CLO
+<MSGDa glänzt etwas...<NOD<CLR<CMU0010<GIT1005<IT+0005Du hast den =Bestienzahn= bekommen!<WAI0160<NOD<CLO
 <RMU<END
 
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
-<MSG<GIT1006Du hast eine  =Life Capsule= 
-gefunden!<WAI0160<NOD<RMU<ML+0003
-Maximale Gesundheit um 3 
-erhöht!<NOD<END
-
+<MSG<GIT1006Du hast eine =HP-Kapsel= bekommen!<WAI0160<NOD<RMU<ML+0003
+HP um 3 Punkte erhöht!<NOD<END

@@ -22,23 +22,23 @@
 <KEY
 <FLJ1121:0203
 <ITJ0028:0202
-<MSGDas hier sind Sprinkler.<NOD
-Sie gehen städig kaputt, weißt du.<NOD
-Darum haben wir hier immer 
-viele neue auf Lager.<NOD<END
+<MSGDas sind unsere Rasensprenger.<NOD
+Die gehen eben andauernd kaputt,
+darum müssen wir auch andauernd
+neue bereit halten.<NOD<END
 
 #0202
-<KEY<MSG<FL+1121Noch einer...?<NOD<CLR<GIT1028<IT-0028=Defekten Sprinkler= 
-übergeben.<NOD<GIT0000
-<KEY<MSGVersuch mal den  hier.<NOD<DNP0280<GIT1029<IT+0029<CLR
-<CMU0010Du hast den =Sprinkler= 
+<KEY<MSG<FL+1121Was denn, schon wieder einer...?<NOD<CLR<GIT1028<IT-0028Du gibst ihm den =Defekten
+Rasensprenger=.<NOD<GIT0000
+<KEY<MSGJetzt seid aber mal bitte
+vorsichtig damit, okay?<NOD<DNP0280<GIT1029<IT+0029<CLR<CMU0010Du hast den =Rasensprenger=
 bekommen.<WAI0160<NOD<RMU<END
 
 #0203
-<KEY<MSGHab gehört, dass die Blumen 
-fast schon blühen!<NOD
-Schein so, als hätten wir gerade 
-genug Sprinkler...<NOD<END
+<KEY<MSGIch hab gehört, dass sie gerade
+die letzten Samen streuen!<NOD
+Scheint so als hatten wir genug
+Rasensprenger...<NOD<END
 
 
 #0210
@@ -48,47 +48,49 @@ genug Sprinkler...<NOD<END
 <EVE0299
 
 #0211
-<MSGEs ist wahr, dass Roboter 
-diese Insel in der Vergangenheit 
-angegriffen haben.<NOD
-Und viele von uns sind gestorben...<NOD
-Aber einige der Roboter konnten 
-Sprache verstehen.<NOD
-Und ich glaube, dass sie 
-auch Seelen hatten...<NOD<END
+<MSGEs stimmt wirklich, dass
+uns früher mal Roboter von
+der Erde attackiert haben.<NOD
+Und auch, wie viele die
+von uns ermordet haben...<NOD
+Doch ein paar wenige von ihnen
+waren sogar vernünftig
+und haben uns verstanden.<NOD
+Ich glaube sogar,
+dass sie eine Seele hatten...<NOD<END
 
 #0212
-<MSGVerflucht sei der Doktor!<NOD<CLREinfach so das kleine 
-Mädchen mitzunehmen!<NOD
-Oh, wenn ich nur ein 
-bisschen jünger wäre...<NOD
-So eine Schande...<NOD<END
+<MSGDieser verfluchte Doktor!<NOD<CLREinfach so ein hilfloses Mädchen
+zu verschleppen!<NOD
+Wär ich doch nur ein bisschen
+jünger...<NOD
+Aber ach...<NOD<END
 
 #0220
 <KEY<FLJ1020:0221
 <EVE0299
 #0221
-<MSGIch glaube kein Wort vondem, 
-was der Doktor sagt!<NOD<CLRRoboter? Pah!<NOD
-Als wenn mich das 
-erschrecken könnte.<NOD<END
+<MSGDiesem Doktor glaub ich kein
+Sterbenswörtchen!<NOD<CLRRoboter? Ja klar, ihr mich auch!<NOD
+Soll ich jetzt Schiss haben,
+oder was?<NOD<END
 
 #0230
 <KEY<FLJ1020:0231
 <EVE0299
 #0231
-<MSGIch bin so müde...<NOD<END
+<MSGIch kann nicht mehr...<NOD<END
 
 #0250
-<KEY<MYB0000<MSGOh, hey.<NOD<CLRKennen wir uns nicht?<NOD
-Ja, unten, im Mimiga-Dorf.<NOD
-Jemand namens "Misery" hat mich 
-aufgeschnappt und hierhergeschleppt.<NOD
-Aber ehrlich, ich hasse die 
-Arbeit hier auf der Plantage.<NOD<CLRIch war gerade dabei, 
-mal an einem anderen Platz zu 
-angeln.<NOD<CLRMagst du Fisch?<NOD
-Naja, bis später.<NOD<CLO
+<KEY<MYB0000<MSGOha...<NOD<CLRDich kenn ich doch irgendwoher...<NOD
+Damals im Mimiga-Dorf.<NOD
+Mich hat so eine "Misere"
+geschnappt und hierher gezerrt.<NOD
+Aber Gartenarbeit is' echt
+nicht mein Ding.<NOD<CLRDabei wollt ich doch zur
+Abwechslung mal Angeln gehen...<NOD<CLRMagst du Angeln?<NOD<CLRNa, dann bis später.<NOD
+Vielleicht sieht man sich mal
+wieder.<NOD<CLO
 <ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
 <ANP0250:0000:0002<WAI0020
 <ANP0250:0020:0002<ANP0100:0000:0002<SOU0011<WAI0020
@@ -97,5 +99,4 @@ Naja, bis später.<NOD<CLO
 
 #0280
 #0299
-<PRI<MSG.....<NOD<END
-
+<PRI<MSG...<NOD<END

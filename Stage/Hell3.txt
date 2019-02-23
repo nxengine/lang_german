@@ -111,47 +111,47 @@
 #0390
 <PRI<FLJ1551:0001<FL+1551
 <SOU0022<CNP0390:0021:0000
-<MSGSchatztruhe geöffnet.<NOD<CLR<EVE0400
+<MSGDu öffnest die Schatzkiste.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010Du hast den =Raketenwerfer= gefunden!<WAI0160<NOD<RMU<CLRDer Raketenwerfer 
-ist eine sehr mächtige Waffe, 
-aber seine Munition ist begrenzt.<NOD
-Du kannst dein Arsenal mit Raketen wiederauffüllen, 
-die von Gegnern fallen gelassen werden..<NOD<END
+<CMU0010Du hast den =Raketenwerfer=
+bekommen!<WAI0160<NOD<RMU<CLRDer Raketenwerfer ist eine
+mächtige Waffe, aber seine Munition
+ist begrenzt.<NOD<CLRDu kannst deinen Vorrat mit
+den von Gegnern hinterlassenen Items
+auffüllen.<NOD<END
 #0401
-<PRI<AM+0005:0032<MSG<GIT0006Munitionsbegrenzung erhöht um <NUM0000!<NOD<END
+<PRI<AM+0005:0032<MSG<GIT0006Raketen um <NUM0000 erhöht!<NOD<END
 #0402
-<PRI<AM+0010:0024<MSG<GIT0011Munitionsbegrenzung erhöht um <NUM0000!<NOD<END
+<PRI<AM+0010:0024<MSG<GIT0011Raketen um <NUM0000 erhöht!<NOD<END
 
 
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
-<PRI<MS3Jenka, die den Wahnsinn ihres 
-Bruder erkannte, bann ihn an 
-diese Insel<NOD
-Das war alles, was sie 
-tun konnte.<NOD
-Sogar bei seiner Gewalttätigkeit 
-konnte sie sich nicht überwinden, 
-ihren eigenen Bruder zu töten...<NOD<END
+<PRI<MS3Jenka entschloss sich, ihren
+wahnsinnigen Bruder auf einer
+fliegenden Insel einzusperren.<NOD
+Sonst konnte sie in all ihrer
+Macht nichts tun.<NOD
+Selbst in diesem Zustand brachte
+sie es nicht übers Herz, ihren
+eigenen Bruder zu töten...<NOD<END
 
 #0901
 <DNP0901<SKJ0025:0000<SK+0025
-<PRI<MS3Es war Jenkas Tochter Misery, 
-die Ballos die=Dämonenkrone= 
-erschaffen ließ.<NOD
-Von da an war sie an 
-diese Krone gebunden,
-und sie musste demjenigen 
-gehrochen, der sie trägt.<NOD
-Wenn die Krone zerstört wird, 
-ist der Fluch gelöst.<NOD<CLR
-Wie auch immer...<NOD<END
+<PRI<MS3Jenkas Tochter Misery war es,
+die Ballos dazu veranlangte,
+die =Teufels-Krone= zu kreieren.<NOD
+Auf der Krone lag ein Fluch, der
+Misery dazu zwang, dem Träger der
+Krone zu gehorchen.<NOD
+Der Bann wäre erst wieder
+gelöst, wenn die Krone zerstört
+wird.<NOD<CLR
+Allerdings...<NOD<END
 
 
 #1000
 <BOA0500<CMU0000<FL-1550<END
 #1001
 #1002
-

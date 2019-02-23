@@ -16,16 +16,16 @@
 #0100
 <KEY<FLJ0800:0101<SOU0011<ANP0100:0000:0002<FAO0000<TRA0045:0090:0081:0053
 #0101
-<KEY<MSGESie lässt sich nicht öffnen.<NOD<END
+<KEY<MSGSie geht nicht auf.<NOD<END
 
 #0110
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<TRA0047:0092:0004:0017
 
 #0120
-<KEY<MSGDu kannst das Rauschen 
-von Wasser hören.<NOD
-Wäre da kein Gitter, 
-könntet ihr durch.<NOD<END
+<KEY<MSGDu hörst von tief drinnen
+Wasser sprudeln.<NOD
+Wenn das Gitter nicht wäre
+könntest du sogar hindurchpassen.<NOD<END
 #0121
 <KEY<FAO0003<TRA0048:0093:0155:0001
 <KEY<FAO0003<TRA0031:0092:0030:0008
@@ -35,15 +35,15 @@ könntet ihr durch.<NOD<END
 <WAI0010
 <ANP0300:0003:0002<WAI0016
 <ANP0300:0001:0002
-<MSG<FAC0025Sind wir immer noch 
+<MSG<FAC0025Sind wir etwa noch immer
 im Labyrinth?<NOD<FAC0000<CLO
 <ANP0300:0003:0002<WAI0064
 <ANP0300:0020:0002<WAI0050
 <ANP0300:0001:0000
-<MSG<FAC0025Hier können wir nicht 
-durch.<NOD
-Wir müssen uns hier 
-oben weiterbewegen.<NOD<CLO
+<MSG<FAC0025Wenn wir hier nicht
+durchkommen,<NOD dann müssen
+wir eben woanders
+weiter.<NOD<CLO
 <ANP0300:0003:0002<WAI0141
 <ANP0300:0020:0002<WAI0010
 <SOU0011<ANP0110:0000:0002<WAI0020
@@ -53,7 +53,7 @@ oben weiterbewegen.<NOD<CLO
 #0300
 
 #0330
-<PRI<MSGDu siehst einen Knopf.<NOD<SOU0043<CLR<MSGDrückst ihn.<NOD<CLO
+<PRI<MSGDa ist ein Knopf.<NOD<SOU0043<CLR<MSGDu drückst drauf.<NOD<CLO
 <WAI0050
 <SOU0071
 <CMP0007:0035:0000
@@ -61,4 +61,3 @@ oben weiterbewegen.<NOD<CLO
 <CMP0026:0031:0111
 <WAI0050<END
 <END
-

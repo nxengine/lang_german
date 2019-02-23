@@ -13,13 +13,12 @@
 
 #0095
 <EQ+0256<MS2<TUR
-<SOU0043<GIT1022Nikumaru-Stoppuhr aktiviert!<NOD<GIT0000<EVE0096
+<SOU0043<GIT1022Stoppuhr aktiviert.<NOD<GIT0000<EVE0096
 
 #0096
-<MSGDu fühlst einen schwarzen 
-Wind in dich strömen.<NOD<CLR
-Alle Wafffen auf Level 1 
-zurückgesetzt!<NOD<CLO
+<MSGDu spürst den Hauch eines
+schwarzen Windes.<NOD<CLRAll deine Waffen sind auf Level 1
+gefallen!<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 
 
@@ -40,10 +39,8 @@ Willkommen in der Hölle!<NOD<END
 
 #0400
 <PRI<SOU0022<DNP0400
-<MSG<GIT1006Du hast eine =Life Capsule= 
-gefunden!<NOD<ML+0005
-Maximale Gesundheit um 5 
-erhöht!<NOD<END
+<MSG<GIT1006Du hast eine =HP-Kapsel bekommen!=<NOD<ML+0005
+HP um 5 Punkte erhöht!<NOD<END
 
 #0420
 <DNP0420
@@ -53,27 +50,26 @@ erhöht!<NOD<END
 
 
 #0500
-<PRI<FL-1531<FL+1532<MS3<FAC0020Oohh...<NOD<CLR<FAC0000
-<CNP0500:0259:0000<GIT1030Du hast sie mit dem 
-Seil an deinen Rücken gebunden.<NOD<END
+<PRI<FL-1531<FL+1532<MS3<FAC0020Nnngh...<NOD<CLR<FAC0000<CNP0500:0259:0000<GIT1030Du bindest sie mit dem Seil
+an deinen Rücken.<NOD<END
 
 
 #0900
 <DNP0900<SKJ0020:0000<SK+0020
-<PRI<MS3Wusstest du, das die alte Hexe 
-Jenaka einen Bruder hat?<NOD
-Sein Name ist Ballos.<NOD
-Wie seine Schwester 
-hatte auch er Kräfte, 
-die weit über die Sterblicher 
-hinausreichten...<NOD<END
+<PRI<MS3Wusstest du, dass die Hexe
+Jenka einen jüngeren Bruder
+hatte?<NOD
+Genau wie seine
+Schwester, verfügte er
+über Hexenkräfte,<NOD
+von welchen kein Mensch
+zu träumen vermochte...<NOD<END
 
 #0901
 <DNP0901<SKJ0021:0000<SK+0021
-<PRI<MS3Er nutzte seine magischen 
-Kräfte, um dem Volk zu 
-helfen und es zu führen,<NOD
-und im Gegenzug vertrauten 
-sie ihm.<NOD<CLRSogar noch mehr als ihrem 
-eigenen König...<NOD<END
-
+<PRI<MS3Er nutzte seine Kräfte, um den
+Menschen zu helfen, und um sie
+zu leiten.<NOD
+Hingegen wurde er vom ganzen Land
+geliebt und verehrt.<NOD<CLRDas Volk liebte ihn mehr,
+als seinen eigenen König...<NOD<END

@@ -15,6 +15,6 @@
 
 #0200
 <PRI<FLJ0140:0001<FL+0140<SOU0022<CNP0200:0021:0000
-<MSGSchatztruhe geöffnet.<NOD<GIT1007<IT+0007<CLR
-<CMU0010Du hast die =ID Card= gefunden.<WAI0160<NOD<RMU<END
+<MSGDu öffnest die Schatzkiste.<NOD<GIT1007<IT+0007<CLR
+<CMU0010Du hast eine =ID-Karte= bekommen!<WAI0160<NOD<RMU<END
 

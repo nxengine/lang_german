@@ -29,19 +29,21 @@
 <KEY<ANP0120:0000:0002<SOU0011<FAO0004<TRA0066:0094:0010:0008
 
 #0130
-<PRI<MSGDas muss der Hubschrauber gewesen sein, 
-in dem Sue und die anderen angekommen sind...<NOD<END
+<PRI<MSGDas muss wohl der Helikopter sein,
+in dem Sue und die anderen hierher
+kamen...<NOD<END
 
 #0199
-<PRI<MSGGute Arbeit.<NOD<END
-<FAO0004Ende.<NOD<CLO<CMU0033<CRE<WAI9999<END
+<PRI<MSGToll gemacht.<NOD<END
+<FAO0004Ending.<NOD<CLO<CMU0033<CRE<WAI9999<END
 
 #0200
-<KEY<MYD0000<DNP0200<WAS<MSGNoch etwas weiter, und du wirst herabstürzen!<NOD<END
+<KEY<MYD0000<DNP0200<WAS<MSGNur noch ein Stückchen
+und du fällst runter!<NOD<END
 
 #0201
 <PRI<MSG<TUR
-            Das war's, Leute!<NOD<END
+            DAS WAR'S, LEUTE!<NOD<END
 
 #0210
 <PRI<FLJ1191:0211<FLJ1192:0212
@@ -50,4 +52,3 @@ in dem Sue und die anderen angekommen sind...<NOD<END
 <PRI<FAO0004<MYD0002<WAI0050<TRA0062:0095:0079:0073
 #0212
 <PRI<FAO0004<MYD0000<WAI0050<TRA0062:0095:0117:0062
-

@@ -4,10 +4,9 @@
 #0091
 <MNA<CMU0029<FAI0001<END
 #0092
-<PRI<CMU0000<MSG<ZAMDu fühlst einen schwarzen
-Wind dich durchströmen.<NOD<CLR
-Alle Waffen auf Level 1
-abgesenkt!<NOD<CLO
+<PRI<CMU0000<MSG<ZAMDu spürst den Hauch eines
+schwarzen Windes.<NOD<CLRAll deine Waffen sind auf
+Level 1 gefallen!<NOD<CLO
 <FRE<MNA<CMU0029<FAI0002<END
 #0093
 <MNA<CMU0029<FAI0003<END
@@ -50,8 +49,5 @@ abgesenkt!<NOD<CLO
 <END
 #0251
 <PRI<FLJ1320:0001<FL+1320<SOU0022<CNP0251:0021:0000
-<MSGSchatztruhe geöffnet.<NOD<GIT1031<IT+0031<CLR
-<CMU0010Du hast die 
-=Lehmfigurenmedaille= 
-verliehen bekommen.<WAI0160<NOD<RMU<END
-
+<MSGDu öffnest die Schatzkiste.<NOD<GIT1031<IT+0031<CLR<CMU0010Du hast die =Lehmfigur-
+Medaille= bekommen.<WAI0160<NOD<RMU<END

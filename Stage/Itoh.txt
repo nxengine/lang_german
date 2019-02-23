@@ -20,7 +20,7 @@
 #0200
 <KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
 <ANP0400:0010:0000<MSG
-Uwah!<NOD<CLO
+Uwaah!<NOD<CLO
 <ANP0400:0020:0000<WAI0050<END
 
 #0400
@@ -30,71 +30,64 @@ Uwah!<NOD<CLO
 <FLJ1002:0402
 <FLJ1001:0401<FL+1001<FL+1038
 <ANP0400:0010:0000
-<MSGAaahh!<MYB0002<NOD<CLRTu mir nichts!<NOD
-Ich bin ein Mensch! 
-Ich wurde nur durch Magie 
-in einen Mimiga 
-verwandelt!<NOD<CLROh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028So ist das.
-Du bist also 
-keiner von diesen 
-Killerrobotern?<NOD
-Naja, ich hab mir 
-gerade vor Schreck 
-beinahe in die 
-Hose gemacht,<NOD 
-als du da so 
-rausgesprungen bist!<NOD<CLRBist du 
-diese Retter, von dem 
-alle sprechen?<NOD<END
+<MSGEhiiigh!<MYB0002<NOD<CLRBitte nicht umbringen!<NOD
+Ich bin doch ein Mensch!
+Man hat mich nur in einen
+Mimiga verzaubert!!<NOD<CLRHäh?<NOD<CLR...<NOD<CLR<ANP0400:0000:0000<FAC0028Ach was,
+du bist gar keiner von
+diesen Killer-Robotern?<NOD
+Mannomann, musst du
+einfach so hier
+reinplatzen?<NOD
+Ich hätte mir fast ins
+Fell gemacht!<NOD<CLRBist du am Ende etwa
+unser Retter?<NOD<END
 
 
 #0401
 <KEY<FL+1002
-<MSG<FAC0028Ich bin Itoh, 
-einer der Wissenschaftler, 
-die zu dieser Insel 
-gekommen sind um 
-Nachforschungen zu 
-betreiben.<NOD
-Diese Misery hat 
-mich verwandelt...<NOD
-Ich konnte entkommen, 
-aber...<NOD 
-zu welchem Preis?<NOD<CLRUnd jetzt bin ich 
-hier gefangen!<NOD<CLRDu bist an 
-der Außenseite 
-hochgeklettert, oder?.<NOD
-Ich bin ein Ingenieur 
-von bemerkenswerten Talent,<NOD
-aber ich habe 
-grässliche Höhenangst...<NOD<CLROh, weh mir...<NOD<CLRIch hätte nie 
-als erster zu dieser 
-Insel kommen sollen.<NOD<END
+<MSG<FAC0028Ich bin Itou.<NOD
+Einer der Menschen, die
+diese Insel<NOD für
+Forschungszwecke besuchen
+kamen.<NOD
+Aber die Hexe Misery hat
+mich so zugerichtet...<NOD
+Ich konnte zwar
+entwischen, aber...<NOD
+Ach, kuck mich doch an.<NOD<CLRUnd ich kann hier nicht
+mal raus!<NOD<CLRDu bist von draußen hier
+reingeklettert, oder?<NOD
+Ich bin zwar ein
+fabelhaft talentierter
+Ingenieur,<NOD
+wenn doch nur meine
+Höhenangst nicht wäre...<NOD<CLRAch Herrgott und
+verflixt noch eins...<NOD<CLRWär ich doch nie auf
+dieser dämlichen Insel
+gelandet.<NOD<END
 
 #0402
-<KEY<MSG<FAC0028Nein, nein, 
-sicherlich hast du 
-keinen Nutzen an einem 
-so pathetischen, 
-gestrandeten kleinen Mann.<NOD<END
-
+<KEY<MSG<FAC0028Ach, lass doch bitte den
+erbärmlichen, gestrande-
+ten Mann in Frieden.<NOD
+Er kann dir bestimmt
+nicht weiterhelfen.<NOD<END
 
 #0403
-<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Ja, das bin ich.<NOD<CLRWas sagst du?<NOD
-Sakamoto arbeitet an 
-einer Rakete?<NOD<CLRAlso ist sie 
-noch am leben...<NOD
-Ein Glück allein, 
-dass sie ist.<NOD
-Nicht wie ich, 
-sicherlich...<NOD<CLRNun denn.<NOD
-Nimm doch das mit dir.<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Du has die =Fernbedienung= 
-bekommen.<WAI0160<NOD<RMU
-<CLR<FAC0028Ich denke, das hier ist, 
-was sie noch braucht.<NOD<GIT0000<EVE0404
-#0404
-<KEY<MSG<FAC0028Bitte überbringe Frau 
-Sakamoto doch meine 
-hochachtungsvollen Grüße.<NOD<END
+<KEY<MSG<FL+1003<FAC0028Itou?<NOD Ja, der bin ich.<NOD<CLRHm, was bitte?<NOD
+Sakamoto arbeitet an
+einer Rakete?<NOD<CLRAch, Gott sei Dank,
+sie lebt also noch...<NOD
+Die Frau ist hart
+im Nehmen, hm?<NOD
+Zumindest härter
+als ich...<NOD<CLROkay, alles klar!<NOD
+Nimm das hier mit.<NOD<FAC0000<GIT1027<IT+0027<CLR<CMU0010Du hast die =Fernsteuerung=.<WAI0160<NOD<RMU
+<CLR<FAC0028Ich hab so das Gefühl,
+dass Sakamoto genau
+dieses Teil hier braucht.<NOD<GIT0000<EVE0404
 
+#0404
+<KEY<MSG<FAC0028Sag Frau Sakamoto 'nen
+schönen Gruß von mir.<NOD<END

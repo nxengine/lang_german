@@ -18,43 +18,50 @@
 
 
 #0200
-<PRI<MSGVor langer, langer Zeit 
-lebte eine Hexe 
-auf dieser Insel.<NOD
-Sie hat dieses Labyrinth errichtet,
-um uns Gaudis einzusperren.<NOD<END
+<PRI<MSGVor langer, langer Zeit lebte
+hier auf der Insel eine Hexe.<NOD
+Sie hat dieses Labyrinth erbaut
+um uns Gaudis hier einzusperren.<NOD<END
+
 #0210
-<PRI<MSGEs gibt einen Ausweg, 
-aber er wird von einem 
-großen Felsen blockiert.<NOD<CLRUnd den Felsen 
-wegzubewegen wäre nur der 
-Anfang allen Übels...<NOD<END
+<PRI<MSGDieses Labyrinth hat
+irgendwo einen Ausgang.<NOD
+Doch er ist von einem riesigen
+Felsen blockiert.<NOD<CLRDen Felsen wegzuschaffen
+ist auch erst der Anfang...<NOD<END
+
 #0220
-<PRI<FLJ1020:0221<MSGAah... Ich habe Appetit auf
-Mimiga-Fleisch...<NOD<CLR*schnüffel*<NOD<CLR
-Du riechst eine bisschen 
-wie ein Mimiga.<NOD<END
+<PRI<FLJ1020:0221<MSGMann, hab ich 'nen Kohldampf.
+Ich könnte 'nen ganzen Mimiga
+verspachteln...!<NOD<CLR*Schnüff schnüff*<NOD<CLRDu riechst sogar 'n bisschen
+nach Mimiga.<NOD<END
+
 #0221
-<PRI<MSGHa-ha-hah...<NOD<CLRDu bist ja ein Scherzbold.<NOD<END
+<PRI<MSGHa ha hah...<NOD<CLRDu bist doch 'n drolliges
+Kerlchen.<NOD<END
+
 #0230
-<PRI<MSGHast du jemals die Außenseite 
-dieser Insel gesehen?<NOD<CLRSie fliegt 
-hoch oben in den Wolken.<NOD
-Wie sie es schafft zu schweben...<NOD
-das Geheimnis liegt 
-irgendwo in diesem Labyrinth.<NOD<END
+<PRI<MSGHast du schon mal die Insel
+von draußen gesehen?<NOD<CLRSie fliegt nämlich hoch oben
+im Himmel.<NOD
+Und das Geheimnis, warum
+sie fliegen kann...<NOD
+Liegt irgendwo in diesem
+Labyrinth versteckt.<NOD<END
+
 #0240
 <PRI<FLJ0720:0241
-<MSGBis vor kurzer Zeit hat der 
-Teleporter noch funktioniert.<NOD
-Natürlich hat er dich nur 
-woandershin innerhalb des Labyrinths 
-geschickt...<NOD<END
+<MSGDer Teleporter hat vor
+kurzem noch funktioniert.<NOD
+Er war natürlich nur zu
+'nem völlig anderen Punkt
+im Labyrinth verbunden...<NOD<END
+
 #0241
-<MSGDer Teleporter scheint wieder 
-zu funktionieren.<NOD<CLRNatürlich führt er 
-nur in einen anderen 
-Teil des Labyrinths.<NOD<END
+<MSGDer Teleporter funktioniert
+anscheinend wieder.<NOD<CLRAber er verbindet natürlich
+nur zu 'nem völlig anderen Punkt
+im Labyrinth, is' ja klar.<NOD<END
 
 
 #0300
@@ -64,55 +71,53 @@ Teil des Labyrinths.<NOD<END
 <CNP0301:0112:0000<WAI0100
 <ANP0310:0000:0000
 <MYD0000<DNP0301<SMC<END
+
 #0310
 <KEY<FLJ0720:0311
-<KEY<MSGEin Teleporter.<NOD<CLREr hat keinen Strom.<NOD<END
+<KEY<MSGEin Teleporter.<NOD<CLRIhm fehlt der Strom.<NOD<END
+
 #0311
 <CNP0300:0111:0002<HMC<WAI0060<ANP0310:0001:0000
 <WAI0100<FAO0004<TRA0045:0301:0002:0053
 
 
 #0400
-<KEY<FLJ0721:0410<MSGHallo.<NOD<CLRDas ist der Labyrinth Shop!<NOD
-Aber leider wurden wir vor 
-kurzer Zeit ausgeraubt,<NOD
-also haben wir momentan 
-nicht viel zu verkaufen.<NOD
-Schade deswegen...<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
-#0401
-<KEY<MSGHm?<NOD<CLRHey, du hast da was 
-ziemlich besonderes.<NOD<CLREinen Polar Star und einen 
-Feuerball, wenn ich mich 
-nicht irre.<NOD<CLRKönnte ich mir die 
-mal etwas genauer 
-ansehen?<YNJ0403<CLO
-<AM-0003
-<WAI0020<MSG<GIT0002=Polar Star= übergeben.<NOD
-<GIT0003=Feuerball= übergeben.<NOD<GIT0000<CLR
-<SOU0044Hoho!<NOD<CLR<FL+0721<GIT0001<CLR
-<TAM0002:0001:0000<CMU0010=Snake= ist fertig!<WAI0160<NOD<RMU<END
-#0402
-<KEY<FL+0721<MSG*seufz*<NOD<CLRHier. Was ist damit?<NOD<CLR<GIT1020<CLR
-<CMU0010<IT+0020<EQ+0008Du hast den =Turbolader= 
-bekommen!<WAI0160<NOD<RMU<GIT0000<CLRDu kannst ihn umsonst haben.<NOD
-Ich sehe, 
-du hast eh kein Geld dabei.<NOD<END
-#0403
-<KEY<MSG<CLRDas Lager ist leer!<NOD<END
-#0404
-<KEY<FL+0721<MSG*seufz*<NOD<CLRHer. Was ist damit?<NOD<CLR<GIT1038<CLR
-<CMU0010<IT+0038Du hast den =Whimsical Star= 
-bekommen!<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLRNur eine Dekoration, 
-fürchte ich,<NOD
-aber du hast ja schon die 
-stärkste Waffe, also was 
-kann ich noch tun?<NOD<END
-#0410
-<KEY<MSGEine Hexe namens Jenka hat 
-uns hierhin gesteckt.<NOD<CLR...Aber das ist nicht etwa,
-weil sie uns hasst oder so.<NOD
-Wir sind hier, 
-weil wir etwas beschützen sollen.<NOD<CLR...Ich weiß nicht mehr genau, 
-was es ist, 
-aber es ist alles klar!<NOD<END
+<KEY<FLJ0721:0410<MSGNa du?<NOD<CLRWillkommen im Labyrinth Laden!<NOD
+...nur sind wir gerade völlig
+ausverkauft.<NOD
+Oder eher "ausgeraubt",
+um's genau zu sagen.<NOD
+Tut mir echt leid, Junge...<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
 
+#0401
+<KEY<MSGMh?<NOD<CLRHee, was hast du denn
+da schönes dabei?<NOD<CLRWow, ein Polar Star
+und ein Feuerball.<NOD<CLRDarf ich die mal kurz haben?<YNJ0403<CLO
+<AM-0003
+<WAI0020<MSG<GIT0002Du gibst ihm den =Polar Star=.<NOD
+<GIT0003Und du gibst ihm den =Feuerball=.<NOD<GIT0000<CLR<SOU0044Hehem!<NOD<CLR<FL+0721<GIT0001<CLR<TAM0002:0001:0000<CMU0010Die =Snake= ist komplett!<WAI0160<NOD<RMU<END
+
+#0402
+<KEY<FL+0721<MSG*Hach*<NOD<CLROkay, wie wär's dann hiermit?<NOD<CLR<GIT1020<CLR<CMU0010<IT+0020<EQ+0008Du hast den =Turbocharge= bekommen!<WAI0160<NOD<RMU<GIT0000<CLRDen kriegste von mir umsonst.<NOD
+Du bist sowieso völlig pleite,
+stimmt's?<NOD<END
+
+#0403
+<KEY<MSG<CLROoh, schade.
+Na, wer nicht will,
+der hat schon!<NOD<END
+
+#0404
+<KEY<FL+0721<MSG*Hach*<NOD<CLROkay, wie wär's dann hiermit?<NOD<CLR<GIT1038<CLR<CMU0010<IT+0038Du hast den =Glücksstern=
+bekommen!<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLRDer ist sowieso nur gut
+zur Dekoration.<NOD
+Mehr gibt's nicht,
+weil du sowieso schon die
+stärkste Waffe dabei hast.<NOD<END
+
+#0410
+<KEY<MSGWir wurden hier eingesperrt von
+einer Hexe, die Jenka heißt.<NOD<CLRAber nicht weil sie uns nicht
+leiden kann, oder sowas.<NOD<CLRWir sollen hier im Labyrinth nur
+irgendwas beschützen.<NOD<CLR...frag mich nur nicht was genau.
+Hab's vergessen.<NOD<END

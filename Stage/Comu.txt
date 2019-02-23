@@ -29,71 +29,74 @@
 
 #0200
 <FLJ0327:0201
-<KEY<MSG<FAC0007Der Schlüssel zu 
-Arthurs Haus...<NOD
-Ich dacht, 
-es gäbe wenigstens zwei.<NOD
-Verflucht seist du, 
-Toroko.
-Du spielst die 
-Unwissende...<NOD<CLRVielleicht weiß ja Jack,
-wo man den zweiten findet...<NOD<END
+<KEY<MSG<FAC0007Der Schlüssel zu Arthurs
+Haus...<NOD
+Es müsste eigentlich einen
+Zweitschlüssel geben.<NOD
+Und diese miese Toroko tat
+so als wusste sie nichts
+davon...<NOD<CLRNaja... vielleicht weiß
+ja Jack wo der Schlüssel
+steckt...<NOD<END
+
 #0201
-<KEY<MSG<FAC0007Toroko...
-Ich kann es nicht glauben...<NOD
-Torokos älterer Bruder,
-Arthur, war ein 
-fabelhafter Kämpfer.<NOD
-Aber er wurde von einem 
-Komplizen des 
-Doktors getötet.<NOD
-Und jetzt... 
-Jetzt konnte auch 
-ich sie nicht beschützen...<NOD<END
+<KEY<MSG<FAC0007Unfassbar...
+Jetzt auch noch Toroko...<NOD
+Ihr großer Bruder war ein
+heldenhafter Krieger.<NOD
+Aber einer der Handlanger
+vom Doktor hat ihn
+ermordet.<NOD
+Und jetzt...
+Die arme Toroko...<NOD
+Ich konnte sie nicht mal
+beschützen...!<NOD<END
 
 #0210
-<KEY<MSG<FAC0009Es gibt zwei Schlüssel 
-zu Arthurs Haus.<NOD
-Toroko hat 
-einen davon.<NOD
-Der andere ist 
-auf dem Friedhof 
-versteckt.<NOD<END
+<KEY<MSG<FAC0009Zu Arthus Haus gibt
+es zwei Schlüssel.<NOD
+Den einen hat Toroko.<NOD
+Der andere ist im Mimiga-
+Friedhof versteckt.<NOD<END
 
 #0220
 <KEY<MSG<FAC0009Torokos Bruder Arthur
-
-hat das schreckliche 
-rote Monster besiegt...<NOD<CLRDer grausame 
-Dämon dieser Insel.<NOD<CLREs ist nicht der Doktor,
-es ist etwas... 
-etwas anderes.<NOD
-Dieser Dämon lebt 
-auf der Insel seit 
-Generationen.<NOD<CLREr kam zu diesem Dorf,<NOD
-aber Arthur hat ihn 
-eigenhändig verjagt.<NOD
-Allein seine Anwesenheit 
-schützte uns vor Gefahren...<NOD<CLRIch werde ihn bis an 
-mein Lebensende 
-nicht vergessen.<NOD<CLRVielleicht hat der Doktor 
-seinen Körper auslöschen können,
- aber nicht seinen Geist 
-und seinen Heldenmut.<NOD<END
+kämpfte gegen ein rotes
+Monster.<NOD<CLR
+Ein fürchterlicher Dämon,
+der auf dieser Insel
+Mimiga verschlingt.<NOD<CLRIch meine nicht den
+Doktor, sondern...
+Etwas anderes. <NODEin Dämon
+der schon seit
+Ewigkeiten hier
+gelebt hat.<NOD<CLR
+Irgendwann kam er in
+unser Dorf,<NOD doch Arthur
+hat ihn eigenhändig
+vertrieben.<NOD
+Er hat sich heldenmutig
+zur Wehr gestellt, und
+unser Dorf verteidigt...<NOD<CLRDen Anblick werde ich mein
+ganzes Leben niemals
+vergessen.<NOD<CLR
+Der Doktor hat Arthur
+vielleicht ermordet, doch
+er war ein wahrer Held.<NOD<END
 
 
 
 #0300
 <ITJ0008:0301
-<KEY<MSG*Brutzel* *Knister!*<NOD<FLJ0442:0000<CLRHinter den Flammen 
-kannst du etwas erkennen.<NOD<END
+<KEY<MSG*Knister!*<NOD<FLJ0442:0000<CLRDa liegt irgendetwas
+hinter den Flammen.<NOD<END
+
 #0301
-<KEY<GIT1008<MSGMöchtest du die
-=Jellyfish Juice= benuztzen?<YNJ0000<CLO<GIT0000
+<KEY<GIT1008<MSGWillst du den
+=Quallensaft= ins Feuer werfen?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
-<MSGIn der Asche findest du etwas...<NOD<CLR<GIT0007<AM+0007:0100
-<CMU0010Du hast den =Blasenwerfer= 
-gefunden!<WAI0160<NOD<CLO<RMU<DNP0300<END
+<MSGDa liegt etwas in der Asche...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010Du hast den =Blubber= bekommen!<WAI0160<NOD<CLO<RMU<DNP0300<END
+
 #0302
 <KEY<DNP0300<END
-

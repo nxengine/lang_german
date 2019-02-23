@@ -26,13 +26,12 @@
 
 #0900
 <DNP0900
-<KEY<MYD0002<MSGBitte tötet meinen 
-Meister.<NOD
-Das ist der einzige Weg, 
-wie Misery befreit werden kann...<NOD
-...Der einziege Weg, 
-diese Tragödie sich nicht 
-wiederholen zu lassen.<NOD<CLRMein Meister heißt Ballos.<NOD<CLRSeien Magie ist verrückt geworden, 
-und nun kann er nicht 
-einmal mehr sterben...<NOD<ANP0201:0010:0000<FL+1620<END
-
+<KEY<MYD0002<MSGIch flehe dich an.
+Bitte töte meinen Meister.<NOD
+Nur so kann Misery von ihrem
+Fluch befreit werden...<NOD
+Damit diese immerwährende
+Tragödie endlich ein Ende nimmt.<NOD<CLRMein Meister trägt den Namen
+Ballos.<NOD<CLREr bestitz unbändige Zauberkräfte,
+welche ihm sogar den Tod
+verwehren...<NOD<ANP0201:0010:0000<FL+1620<END

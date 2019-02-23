@@ -20,21 +20,20 @@
 
 
 #0200
-<KEY<MSGDu findest eine Notiz von
-Booster.<NOD
-Willst du sie lesen?<YNJ0000<CLR<TURDie allgemeine Erkundung 
-dieser Insel wäre wesentlich 
-effektiver,<NOD<CLRwenn wir die Ausrüstung zur 
-terraingerechten Bewegung hätten.<NOD<CLRDaher habe ich begonnen,
-einen Ausrüstungsgegenstand herzustellen, 
-welchen ich "Booster" nenne.<NOD<CLRDie Entwicklung der Fluggeräte 
-wird in zwei Stufen abzuschließen sein,
-Version 0.8 und 2.0.<NOD<CLRMeine Pläne von Version 0.8 
-sind , dass er für wenige Momente den 
-Auftriebszustand erlauben wird.<NOD<CLRDoch ich bin sicher, dass ich ihn 
-zu Version 2.0 weiterentwickel kann,
-vorausgesetzt ich lebe lange genug.<NOD<CLREr sollte noch wesentlich nützlicher sein.<NOD<CLO
+<KEY<MSGHier steht eine Notiz
+von Booster.<NOD
+Möchtest du sie lesen?<YNJ0000<CLR<TURErforschung vom Inneren der Insel
+würde effizienter vonstatten gehen
+mit flugfähigen Instrumenten.<NOD<CLRFür diesen Zweck habe ich die
+Entwicklung des Fluginstrumentes
+"Booster" eingeleitet.<NOD<CLRDie Entwicklung erfolgt in zwei Phasen,
+Versionen 0.8 und 2.0.<NOD<CLRVersion 0.8 ist tragbar und
+erlaubt Schweben bis zu einem
+gewissen Grad.<NOD<CLRWenn ich meinen Tod noch hinauszögere,
+kann ich bestimmt noch Version 2.0
+fertig stellen,<NOD<CLRdamit aus ihm ein noch praktischeres
+Gerät entsteht.<NOD<CLO
 <FLJ0161:0000<WAI0050<MS2
-    Aber nur, wenn ich leben würde...<WAI0050<NOD<END
-
+     Vorausgesetzt,
+     dass ich so lange lebe...<WAI0050<NOD<END
 

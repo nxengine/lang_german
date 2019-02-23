@@ -18,69 +18,79 @@
 <KEY<FLJ1564:0101<SOU0011<ANP0100:0000:0002
 <FAO0004<TRA0016:0094:0032:0002
 #0101
-<PRI<MSGSie lässt sich nicht öffnen!<NOD<END
+<PRI<MSGSie geht nicht auf!<NOD<END
 
 
 #0400
 <KEY<MYB0002<WAI0020
 <FLJ1563:0420
 <FLJ1562:0411
-<FLJ1561:0403<MSGHast du irgendwas hier zu suchen?<YNJ0401<FLJ1044:0402<CLRHah!<NOD
-Das bezweifele ich.<NOD<END
+<FLJ1561:0403<MSGWillst du was von mir?<YNJ0401<FLJ1044:0402<CLRPah!<NOD
+Das bezweifle ich stark.<NOD<END
 
 #0401
-<KEY<MSGHeh-heh-heh. Dann hau ab.<NOD<END
+<KEY<MSGHöhöhöö.<NOD
+Na dann tschüss.<NOD<END
 
 #0402
-<KEY<FL+1561<MSGHm?<NOD Amnesie?<NOD
-Wie schrecklich.<NOD<EVE0403
+<KEY<FL+1561<MSGHä?<NOD Amnesie?<NOD
+Ohh, das klingt aber üüübel.<NOD<EVE0403
+
 #0403
-<KEY<MSGNaja, soll ich dir dann 
-den Pilz geben?<YNJ0408<EVE0404<END
+<KEY<MSGOkay, soll ich dir
+den Pilz-Orden geben?<YNJ0408<EVE0404<END
 
 #0404
-<KEY<MSGAber in Wirklichkeit willst 
-du ihn gar nicht, oder?<YNJ0405<EVE0408
+<KEY<MSGOch, komm schon.
+Den willst du doch gar nicht, oder?<YNJ0405<EVE0408
+
 #0405
-<KEY<MSGWillst du ihn so sehr?<YNJ0409<EVE0406
+<KEY<MSGDu willst ihn also
+nicht haben?<YNJ0409<EVE0406
+
 #0406
-<KEY<MSGWillst du ihn unumgänglich 
-und unter allen Bedingungen?<YNJ0409<EVE0407
+<KEY<MSGDu willst ihn also doch
+haben? Absolut, wirklich
+und ganz ehrlich?<YNJ0414<EVE0407
+
 #0407
-<KEY<MSGAber du willst 
-ihn nicht wirklich, oder?<YNJ0410<EVE0409
+<KEY<MSGAber jetzt mal ganz unter uns...
+Brauchst du ihn überhaupt?<YNJ0410<EVE0413
 
 #0408
-<KEY<MSGWirklich? Okay.<NOD<END
+<KEY<MSGWirklich nicht?<NOD<END
+
 #0409
-<KEY<MSGTja, wer's nötig hat...<NOD<END
+<KEY<MSGJa, sag ich doch,
+braucht kein Mensch...<NOD<END
 
 #0410
-<KEY<MSGSo, da hast du ihn!<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
-<CMU0010Du hast die =Piltartrappe= 
+<KEY<MSGMir doch egal,
+du kriegst ihn trotzdem~!<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR<CMU0010Du hast den =Pilz-Orden=
 bekommen.<WAI0160<NOD<RMU<END
 
 #0411
 <KEY<MSGBzzzzzt.<NOD<END
 
+#0413
+<KEY<MSGGlaub ich dir nicht...<NOD<END
+
+#0414
+<KEY<MSGNa, das hab ich ja
+gleich gewusst...<NOD<END
+
 #0420
-<KEY<MSGHwahaha!<NOD
-Also hast du es herausgefunden?<NOD<CLRDas ist nicht mehr als 
-eine alberne Plakette!<NOD<CLR.....<NOD<CLRWas?<NOD
-Du willst mich essen?!<NOD<CLRDu musst wissen, 
-dass ich ein wertvoller, 
-wertvoller Pilz bin, 
-den man in keiner anderen Höhle 
-auf der ganzen Welt findet!<NOD<CLRGrrrrrr!<NOD
-Ich werde dich mich nicht 
-einfach essen lassen!<NOD<CLR<CMU0004Stirb!!<NOD<CLO<FL+1564
+<KEY<MSGHua hua hua!<NOD
+Jetzt hast du mich erwischt, was?<NOD<CLRDer Orden ist wirklich nur
+billiger Klinkerklunker!<NOD<CLR.....<NOD<CLRHä, was?<NOD
+Du willst mich FRESSEN?!<NOD<CLRJa aber aber, in meiner Höhle hab
+ich doch noch 'nen viel viel viel
+wertvolleren Pilz versteckt!<NOD<CLRNicht mit mir, duuu!<NOD
+So leicht frisst du mich nicht auf!<NOD<CLR<CMU0004ICH MACH DICH KAPUTT!!<NOD<CLO<FL+1564
 <CNP0500:0313:0000<WAI0002
 <ANP0500:0100:0000<DNP0400
 <BSL0500<END
 
 
 #0500
-<KEY<CMU0000<ANP0500:0500:0005<WAI0150
-<MSGDu hast gewonnen......<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
-<CMU0010Du hast =Ma Pignon= gefangen!<WAI0160<NOD<RMU<END
-
+<KEY<CMU0000<ANP0500:0500:0005<WAI0150<MSGIch geb auuuf~...<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500<CMU0010Du hast die =Ma Pignon=!<WAI0160<NOD<RMU<END

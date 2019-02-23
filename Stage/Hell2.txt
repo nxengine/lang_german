@@ -23,28 +23,27 @@
 
 #0200
 <PRI<MSG<TUR
-Es gibt kein zurück mehr...<NOD<END
+Du kannst nicht mehr umdrehen...<NOD<END
 
 
 
 #0900
 <DNP0900<SKJ0022:0000<SK+0022
-<PRI<MS3Der neidische König leiß 
-Ballos verhaften und ins 
-Gefängnis werfen,<NOD
-wo seine Strafe grausam war.<NOD
-Menschen können so grässliche 
-Kreaturen sein...<NOD<END
+<PRI<MS3Aus Neid ließ der König Ballos
+verhaften und ins Gefängnis
+sperren,<NOD wo er grauenvoll
+gestraft und gefoltert wurde.<NOD
+Die Menschen können wahrlich
+grausam sein...<NOD<END
 
 #0901
-<DNP0901<SKJ0023:0000<SK+0023
-<PRI<MS3Unter der extremen Folter 
-ist Ballos whnsinnig geworden.<NOD
-Der König wurde in einem 
-magischen Strudel 
-eingeschlossen und zerfetzt.<NOD
-In einer einzigen Nacht wurde 
-das Königreich, dass Ballos so 
-geliebt hatte, zu äschernen 
-Ruinen zerschmettert.<NOD<END
-
+<DNP0901<SKJ0023:0000<SK+0023<PRI<MS3Die grauenvollen Strafen waren
+zuviel für Ballos.<NOD
+Seine Hexenkräfte gerieten
+außer Kontrolle...<NOD<CLREin Wirbelsturm von unbändiger
+Zauberkraft verschlang den König,<NOD
+und vernichtete das Land
+in einem Schlag.<NOD
+Nach nur einer Nacht war das Land,
+das Ballos so liebte, zu Schutt
+und Asche verbrannt.<NOD<END

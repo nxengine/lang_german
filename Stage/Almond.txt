@@ -21,15 +21,14 @@
 <FAO0000<TRA0046:0090:0017:0009
 
 #0101
-<KEY<MSGSie lässt sich nicht öffnen...<NOD<END
+<KEY<MSGSie geht nicht auf...<NOD<END
 
 #0200
 <KEY
 <FLJ0832:0204
 <FLJ0824:0203
 <FLJ0823:0202
-<FLJ0821:0201<MSG
-GITTER ÖFFNEN?<YNJ0000<CLRGITTER WERDEN GEÖFFNET<NOD<CLO<MYD0000
+<FLJ0821:0201<MSGPANZERTÜREN ÖFFNEN?<YNJ0000<CLRPANZERTÜREN ÖFFNEN.<NOD<CLO<MYD0000
 <WAI0030<ANP0250:0010:0001<WAI0010<ANP0300:0001:0002
 <WAI0022<ANP0251:0010:0001<ANP0300:0003:0002
 <WAI0032<ANP0252:0010:0001
@@ -40,49 +39,47 @@ GITTER ÖFFNEN?<YNJ0000<CLRGITTER WERDEN GEÖFFNET<NOD<CLO<MYD0000
 <ANP0253:0001:0000<WAI0032<DNP0300
 <CNP0301:0117:0000
 <ANP0301:0021:0002
-<FL-0820<FL+0821<FL+0822<MSGABNORMALITÄT ENTDECKT: GITTER NR.4<NOD<END
+<FL-0820<FL+0821<FL+0822<MSGFEHLER IN PANZERTÜR NR. 4<NOD<END
+
 #0201
-<KEY<MSGABNORMALITÄT ENTDECKT: GITTER NR.4<NOD<END
+<KEY<MSGFEHLER IN PANZERTÜR NR. 4<NOD<END
+
 #0202
-<KEY<MSG
-LIFT HERUNTERFAHREN?<YNJ0000<CLR<FL+0824
-LIFT WIRD HERUNTERGEFAHREN<NOD<CLO<FON0257:0016
+<KEY<MSGLIFT HERUNTERFAHREN?<YNJ0000<CLR<FL+0824
+LIFT FÄHRT HERUNTER.<NOD<CLO<FON0257:0016
 <WAI0050
 <ANP0257:0010:0003<WAI0192<ANP0257:0000:0000
 <WAI0050<FOM0016
-<MSG
-LIFT GESENKT<NOD<END
+<MSGLIFT UNTEN.<NOD<END
+
 #0203
-<KEY<MSG
-LIFT GESENKT<NOD<END
+<KEY<MSGLIFT UNTEN.<NOD<END
+
 #0204
-<KEY<MSG
-ERROR<NOD<END
+<KEY<MSGERROR<NOD<END
 
 #0210
-<KEY<FLJ0830:0212<FLJ0825:0211<MSG
-GITTER ÖFFNEN?<YNJ0000<CLR<FL+0825
-GITTER WIRD GEÖFFNET<NOD<CLO<WAI0040
+<KEY<FLJ0830:0212<FLJ0825:0211<MSGPANZERTÜR ÖFFNEN?<YNJ0000<CLR<FL+0825PANZERTÜR ÖFFNET.<NOD<CLO<WAI0040
 <ANP0256:0010:0001<WAI0128<DNP0256
-<MSG
-GITTER OFFEN<NOD<END
+<MSGPANZERTÜR GEÖFFNET.<NOD<END
+
 #0211
-<KEY<MSG
-GITTER OFFEN<NOD<END
+<KEY<MSGPANZERTÜR GEÖFFNET.<NOD<END
+
 #0212
-<KEY<MSG
-FEHLER<NOD<END
+<KEY<MSGFEHLER.<NOD<END
 
 #0240
-<PRI<FLJ0828:0241<MSGEtwas ist um den Arm 
-des zerstörten Roboters geknotet.<NOD<CLRWillst du es abnehmen?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
-<CMU0010Du hast das =Seil= gefunden.<WAI0160<NOD<RMU<END
+<PRI<FLJ0828:0241<MSGAn dem Arm des zerstörten
+Roboters hängt etwas.<NOD<CLRWillst du es mitnehmen?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR<CMU0010Du hast das =Schleppseil=
+bekommen.<WAI0160<NOD<RMU<END
+
 #0241
-<PRI<MSG
-...?<NOD<END
+<PRI<MSG...?<NOD<END
+
 #0242
-<PRI<MSGes hat sich verheddert.
-Du kannst es nicht losbekommen...<NOD<END
+<PRI<MSGEs ist ganz verwickelt.
+Du kriegst es nicht los...<NOD<END
 
 #0250
 #0251
@@ -90,9 +87,8 @@ Du kannst es nicht losbekommen...<NOD<END
 #0253
 #0254
 #0255
-<PRI<MSGEin zersörter Roboter.<NOD
-Er ist an diversen 
-Stellen beschädigt.<NOD<END
+<PRI<MSGEin zerstörter Roboter.<NOD
+Hoffnungslos beschädigt.<NOD<END
 
 #0256
 
@@ -100,48 +96,47 @@ Stellen beschädigt.<NOD<END
 #0258
 
 #0300
-<KEY<MSG<FAC0019Komischer Ort hier, 
-nicht wahr?<NOD
-Es würde mich 
-nicht wundern, 
-wenn das hier eine 
-Art Basis wäre.<NOD<END
+<KEY<MSG<FAC0019Komisches Örtchen, was?<NOD
+Ob das hier mal eine Art
+Basis oder sowas war?<NOD<END
+
 #0301
-<KEY<FLJ0823:0302<MSG<FAC0025Diese Gitter 
-ist nur zur Häfte 
-geöffnet.<NOD<CLRSieht aus,
-als ob es sich an 
-etwas verhakt hätte...<NOD<END
+<KEY<FLJ0823:0302<MSG<FAC0025Die Tür ist nur knapp
+aufgegangen.<NOD<CLRIch glaub sie klemmt
+wegen irgendwas...<NOD<END
+
 #0302
-<KEY<MSG<FAC0019Nur Gitter hinter Gitter.<NOD
-Bei all diesen 
-Sicherheitvorkehrungen muss 
-hier unten etwas 
-sehr wertvolles sein.<NOD
-Meinst du nicht?<NOD<END
+<KEY<MSG<FAC0019So viele Panzertüren
+hier...<NOD
+Bei so strengen
+Sicherheits-Einrichtungen<NOD
+will man unbedingt wissen,
+was dahinter steckt...<NOD
+Meinst du nicht auch?<NOD<END
 
 
 #0304
-<PRI<MSGI...<NOD<END
+<PRI<MSGIch...<NOD<END
 
 #0305
-<PRI<MSGBewusstlos?<NOD<END
+<PRI<MSGOhnmacht?<NOD<END
 
 #0306
-<PRI<MSGSie antwortet nicht...<NOD<ITJ0030:0307<END
+<PRI<MSGKeine Antwort...<NOD<ITJ0030:0307<END
 
 #0307
-<PRI<MSGSie bewegt sich nicht, 
-aber sie scheint 
-noch am leben zu sein.<NOD<CLR
-<GIT1030Willst du das =Seil= benutzen?<YNJ0000<CLO<GIT0000
+<PRI<MSGSie rührt sich nicht,
+aber sie scheint noch zu
+leben.<NOD<CLR<GIT1030Willst du das =Schleppseil=
+anbinden?<YNJ0000<CLO<GIT0000
 <CNP0306:0259:0000
 <FL+0835<FL+0836<FL-0829
-<MSGDu hast sie an dich gebunden.<NOD<END
+<MSGDu bindest sie fest
+an deinen Rücken.<NOD<END
 
 #0340
 <KEY<DNP0340<WAI0010<SOU0022<WAI0010
-<MSGDu hörst etwas nachgeben.<NOD<CLO<WAI0050<ANP0253:0010:0001
+<MSGEtwas hat *klick* gemacht.<NOD<CLO<WAI0050<ANP0253:0010:0001
 <WAI0048<DNP0253
 <ANP0301:0003:0002<WAI0128
 <ANP0301:0001:0002
@@ -171,34 +166,32 @@ noch am leben zu sein.<NOD<CLR
 
 #0450
 <KEY<SKJ0006:0451<SK+0006<EVE0452
+
 #0451
 <SAT<EVE0452
+
 #0452
 <KEY
 <FLJ0837:0304
 <FLJ0828:0305
-<MYB0002<WAI0030<MYD0002<MSG<FAC0019Sieh nur.<NOD<CLRDas ist ein Soldat 
-von der Oberfläche.<NOD
-Aber alles an ihm 
-ist kaputt.<NOD<CLO<FAC0000
+<MYB0002<WAI0030<MYD0002<MSG<FAC0019Schau mal.<NOD<CLREin Soldat von der
+Oberfläche.<NOD
+Total zerfetzt.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
-<MSG<FAC0025Hier liegen 
-noch viel mehr rum.<NOD
-Was zum Teufel ist hier...<NOD<CLRKein Mimiga.
-Nein, um so ein Maß 
-an Zerstörung 
-herbeizuführen...<NOD<CLO
+<MSG<FAC0025Und noch Tausend mehr von
+der Sorte.<NOD<CLRWer oder was hat hier
+bloß...?<NOD<CLRDoch nicht etwa Mimiga?<NOD
+Nein, unmöglich...<NOD<CLRSoviel Schaden kriegen
+nicht mal tausend Mimiga
+hin.<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
-<ANP0450:0001:0002<MSG
-<FAC0025!!!<WAI0050<CLO<FAC0000
-<WAI0030<ANP0450:0001:0002<MSG
-<FAC0019Er lebt noch!!<NOD<CLR
-<FAC0024*Bzzbzbzztbz*<NOD<CLRTEAM 9 WURDE VERNICHTET<NOD
-GESCHEITERT DAS ZIEL 
-ZU ZERSTÖREN<NOD<CLRMOMENTANE KRÄFTE 
-REICHEN NICHT AUS<NOD<CLRZURÜCKTRETEN<NOD
-ZURÜCKTRETEN!!<NOD<CLO
+<ANP0450:0001:0002<MSG<FAC0025!!!<WAI0050<CLO<FAC0000
+<WAI0030<ANP0450:0001:0002<MSG<FAC0019Der lebt ja noch!!<NOD<CLR<FAC0024*BZZZZTTT*<NOD<CLRTEAM 9 AUSGELÖSCHT.<NOD
+ZERSTÖRUNG DES ZIELES
+NICHT ERFOLGT.<NOD<CLRZERSTÖRUNG MIT MOMENTANER
+FEUERKRAFT NICHT MÖGLICH.<NOD<CLRRÜCKZUG.<NOD
+RÜCKZUG!!<NOD<CLO
 <FON0258:0016<FL+0828<FL-0824<MNP0257:0007:0018:0000
 <CMP0040:0015:0030<CMP0040:0016:0030
 <CNP0258:0184:0000
@@ -224,36 +217,32 @@ ZURÜCKTRETEN!!<NOD<CLO
 <ANP0410:0010:0000
 <CNP0450:0117:0004
 <WAI00100
-<MSG<FAC0019Wir haben es 
-geschafft?!<WAI0100<NOD<CLO<FAC0000
+<MSG<FAC0019Haben wirs geschafft?!<WAI0100<NOD<CLO<FAC0000
 <FON0401:0016<CNP0400:0067:0002<WAI0050
-<MSG<FAC0026Hmph!<NOD<CLRIhr habt ihn also 
-ausgeschaltet!<NOD<CLR<FAC0019Du!<NOD<CLRDu bist
-diese Hexe, 
-die mich hier runter 
-geschickt hat!<NOD<CLRDie Kinder hätten 
-sicher 
-sein müssen!<NOD<CLR<FAC0016Ha! 
-Sei still!<NOD<CLRDu bist keine Mutter!<NOD
-Weißt du überhaupt, 
-was das ist?!<NOD<CLR
-<FAC0019Was?<NOD<CLR<FAC0016Hmph. Das hasse 
-ich an Robotern.<NOD<CLRDas hier 
-ist das Herz 
-der Insel!<NOD<CLRWenn ihr ihn ausschaltet, 
-wird sie auf die 
-Oberfläche herabstürzen!<NOD<CLRIst das euer Plan?<NOD<CLRDie Insel mit 
-euch abstürzen lassen, 
-um Ruhm zu ernten?!<NOD<CLRDummköpfe!!<NOD<CLO<FAC0000
+<MSG<FAC0026Pah!<NOD<CLRDas habt ihr ja fein
+hingekriegt!<NOD<CLR<FAC0019HEY!<NOD<CLRDu bist doch die Hexe,
+die mich hierher
+verfrachtet hat!<NOD<CLRWenn du meinen Kleinen
+nur ein Haar gekrümmt
+hast...!!<NOD<CLR<FAC0016Schweig, du!<NOD<CLRFühr dich doch nicht so
+auf, wie eine Mutter!<NOD
+Wisst ihr überhaupt, was
+dieses Ding da ist?!<NOD<CLR<FAC0019Hä?<NOD<CLR<FAC0016HA!<NOD Genau darum kann
+ich Roboter nicht
+ausstehen!<NOD<CLRDas hier ist das Herz
+dieser Insel.<NOD<CLRSobald es anhält,
+wird die Insel zu Boden
+stürzen!!<NOD<CLRIst das etwa euer
+großartiger Plan?<NOD<CLRGemeinsam mit der Insel
+draufgehen?!<NOD<CLRIhr NARREN!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
-<MSG<FAC0021
-Hey!<NOD<CLRWas tust du?
-Bring den Kern 
-sofort ins Labor!<NOD<CLRNoch haben wir Zeit!<NOD<CLO<FAC0000
+<MSG<FAC0021MISERY!<NOD<CLRWas tust du da?!<NOD
+Bring das Herz SOFORT
+in mein Labor!<NOD<CLRUns bleibt noch Zeit!<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
 <CNP0400:0082:0002<WAI0020
 <ANP0400:0025:0002<FMU
-<MSGHooooooOOOOOOOOH!!<WAI0050<NOD<CLO
+<MSGHoooooAAAAHHHH!!<WAI0050<NOD<CLO
 <BOA0600<WAI0030
 <ANP0400:0020:0002
 <ANP0402:0030:0000
@@ -266,8 +255,8 @@ sofort ins Labor!<NOD<CLRNoch haben wir Zeit!<NOD<CLO<FAC0000
 
 #1100
 <KEY<FL-4000<FAO0004<WAI0050
-<MSGDeine Sinne werden schwach, 
-und dir wird schwarz vor Augen...<NOD<CLO
+<MSGDir wird schwarz vor
+Augen...<NOD<CLO
 <DNP0450
 <FL+0830<FL-0825<FL+0829<FL-0827
 <FL+0800<FL+0801<FL+0372<FL+0411
@@ -277,13 +266,15 @@ und dir wird schwarz vor Augen...<NOD<CLO
 
 #1101
 <WAI0150
-<KEY<MS2Wusstest du, 
-dass die alte Hexe Jenka einen 
-Bruder hatte?<NOD
+<KEY<MS2Wusstest du, dass die Hexe
+Jenka einen jüngeren Bruder
+hatte?<NOD
 Sein Name war Ballos.<NOD
-Wie seine Schwester hatte auch 
-er Kräfte, die weit über die 
-von Sterblichen hinausreichen...<NOD<CLO<EVE1110
+Genau wie seine
+Schwester, verfügte er
+über Hexenkräfte,<NOD
+von welchen kein Mensch
+zu träumen vermochte...<NOD<CLO<EVE1110
 
 #1110
 <CNP0306:0117:0002
@@ -291,8 +282,7 @@ von Sterblichen hinausreichen...<NOD<CLO<EVE1110
 <ANP0258:0010:0001<WAI0096<ANP0258:0001:0000
 <WAI0050
 <MOV0055:0018
-<DNA0183<IT+0021<EQ+0016<MSG......?<NOD<CLR
-...Du kannst atmen.<NOD<FAI0004<WAI0050<END
+<DNA0183<IT+0021<EQ+0016<MSG......?<NOD<CLR...du kannst atmen.<NOD<FAI0004<WAI0050<END
 
 
 #1200
@@ -303,4 +293,3 @@ von Sterblichen hinausreichen...<NOD<CLO<EVE1110
 #1202
 <FON1200:0016<FAI0001
 <WAI0100<FAO0001<TRA0056:1200:0069:0076
-

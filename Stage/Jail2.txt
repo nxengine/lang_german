@@ -21,27 +21,38 @@
 <KEY<FAO0002<TRA0056:0092:0008:0049
 
 #0200
-<KEY<MSGDer Zielort ist unbekannt.<NOD
-Willst du trotzdem reisen?<YNJ0000<CLO<FL+0524
+<KEY<MSGDas Ziel ist nicht bekannt.<NOD
+Trotzdem teleportieren?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0015:0010
 
 
 #0400
-<PRI<MSGWas, ein Killerroboter?<NOD<CLRWillst du uns umbringen?<NOD<END
+<PRI<MSGHe! Was bist du?!
+Ein Killer Roboter?!<NOD<CLRBist du hier um uns abzumurksen?!<NOD<END
+
 #0401
-<PRI<MSGLast mich raus!<NOD<END
+<PRI<MSGIch will hier raaaus!<NOD<END
+
 #0402
-<PRI<MSGDoktor Dummkopf soll doch ingehen, wo der Pfeffer wächst!<NOD<END
+<PRI<MSGDer Doktor Arschbacke kann
+mich mal am Abend besuchen!<NOD<END
 
 #0403
-<PRI<MSGDie Mimigas hier auf den Feldern werden belügt!<NOD<CLRDer Doktor wird uns
-die Erde angreifen lassen!<NOD<END
-#0404
-<PRI<MSGKennst du eine "Sakamoto"?<NOD
-Sie soll sich hier irgendwo in der Plantage verstecken...<NOD<END
-#0405
-<PRI<MSGHier sollen auch ein paar Menschen sein, 
-aber ich hab noch nie einen gesehen...<NOD
-Würde mich wundern, wenn sie geflohen sind.<NOD<END
+<PRI<MSGDie Mimigas da draußen auf der
+Plantage werden belogen
+und betrogen!<NOD<CLRDer Doktor will uns alle gegen
+die Roboter antreten lassen!<NOD<END
 
+#0404
+<PRI<MSGKennst du eine "Sakamoto",
+oder so ähnlich?<NOD
+Die hat anscheinend irgendwo hier
+auf der Plantage ihr Versteck...<NOD<END
+
+#0405
+<PRI<MSGAnscheinend gabs hier früher
+auch mal Menschen, aber ich
+hab noch nie welche gesehen...<NOD
+Vielleicht sind die ja alle
+entwischt.<NOD<END

@@ -25,16 +25,18 @@
 #0110
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
 
-<KEY<MSGDanke. Das ist es dann erstmal gewesen.
-  2003/09/27 Studio Pixel<NOD<END
+<KEY<MSGDanke, Leute.
+Hier ist das Ende der Fahnenstange.
+  27. Sep. 2003 Studio Pixel<NOD<END
 
 #0200
-<KEY<FLJ0744:0201<MS3Die Stromversorgung scheint 
-kaputt zu sein.<NOD<CLREin Techniker mit 
-gewissem Talent könnte das 
-vielleicht reparieren...<NOD<END
+<KEY<FLJ0744:0201<MS3Die Stromzufuhr scheint defekt.<NOD<CLRJemand mit
+Ingenieur-Erfahrung könnte
+das vielleicht hinkriegen...<NOD<END
+
 #0201
-<KEY<MSGWillst du zu Arthurs Haus reisen?<YNJ0000<CLO
+<KEY<MSGWillst du zu
+Arthurs Haus teleportieren??<YNJ0000<CLO
 <CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 
@@ -49,45 +51,48 @@ vielleicht reparieren...<NOD<END
 
 #0501
 <KEY<ITJ0030:0503<FLJ0741:0502
-<MSGOohhh...<NOD<CLR<FAC0017Oh!<NOD
-Was tust du denn hier?!<NOD<CLR.....<NOD<CLRAlso hat Misery dich auch 
-hierhin geschickt...<NOD<CLR*schmunzel*...<NOD<CLRVielleicht ist da ja 
-doch noch ein 
-Silberstreif am 
-Horizont...<NOD<CLRDu siehst,<NOD
-Diese Insel schwebt 
-mit der Kraft eines 
-einzigen Organismus,<NOD
-und ich habe endlich 
-seinen Aufenthaltsort 
-herausgefunden.<NOD<CLRDiese Labyrinth.<NOD<CLRDer Organismus
-ist irgendwo 
-in diesem Labyrinth.<NOD
-Wenn er zerstört würde, 
-müsste die Insel ihre 
-Funktion aufgeben.<NOD<CLR*schmunzel*<NOD<CLRDer 
-Doktor muss wirklich 
-leichtsinnig sein,<NOD
-dich ins Herz dieser 
-Insel zu schicken.<NOD<CLRNimm das mit dir.<NOD<CLR<FAC0000<IT+0018<GIT1018
-Du hast den Booster v0.8 bekommen.<NOD<CLR<FAC0017Diese kleine Maschine wird 
-dir beim Fliegen helfen.<NOD
-Benutze das Inventar, 
-um ihn auszurüsten.<NOD<GIT0000<CLRPuh...<NOD<CLRAls ich herunter 
-gefallen bin, 
-dachte ich, 
-es wäre vorbei.<NOD
-Und jetzt hat es mir 
-die Möglichkeit gegeben, 
-dich ein letztes 
-Mal zu sehen...<NOD
-Doch nun wird mein Glück 
-hier vorüber sein.<NOD<CLRIch bete für 
-dich und deinen Sieg...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
+<MSGUuuff...<NOD<CLR<FAC0017Oh!<NOD
+Was hast du denn hier
+veloren?!<NOD<CLR...<NOD<CLRWirklich? Misery hat dich
+auch hierher geschickt..?<NOD<CLR*heheh*...<NOD<CLRNa, wenn man das nicht
+Glück im Unglück nennt...?<NOD<CLRWeißt du, diese Insel
+hält sich nämlich<NOD
+Dank einer gewissen
+lebenden Kreatur
+in der Luft.<NOD
+Gerade erst habe ich
+die Position dieser
+Kreatur ermitteln können.<NOD<CLRUnd zwar hier.<NOD<CLRSie lebt irgendwo in den
+Tiefen dieses Labyrinthes.<NOD<CLRWenn wir sie vernichten,<NOD
+könnten wir damit die
+Funktionen der Insel
+einstellen.<NOD<CLR*Heheh*<NOD<CLRDer Doktor muss es ganz
+schön eilig haben,<NOD wenn
+er dich ausgerechnet<NOD ins
+tiefste Herz der Insel
+einsperrt.<NOD<CLRHier, nimm das mit.<NOD<CLR<FAC0000<IT+0018<GIT1018Du hast den =Booster v0.8=
+bekommen.<NOD<CLR<FAC0017Mithilfe dieses kleinen
+Gerätes kannst du fliegen.<NOD
+Halte den Sprungknopf in
+der Luft gedrückt,
+um zu schweben.<NOD<CLRWechsle zum Item-
+Bildschirm, um ihn
+auszurüsten.<NOD<GIT0000<CLRPhuu...<NOD<CLRIn der Sekunde als sie
+mich erwischt hat
+dachte ich,<NOD
+"Jetzt ist alles aus".<NOD
+Aber nur deswegen konnte
+ich dich noch einmal
+wieder sehen...<NOD
+So viel Glück kann man
+wohl nur einmal im Leben
+haben.<NOD<CLRJetzt sei stark, Junge.<NOD
+Meine Hoffnung ist mit
+dir...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
 
 #0502
-<KEY<MSGIch bete für...<NOD<END
+<KEY<MSGMeine Hoffnung ist mit
+dir...<NOD<END
 
 #0503
-<KEY<MSGOoh...<NOD<END
-
+<KEY<MSGUuuff...<NOD<END

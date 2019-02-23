@@ -31,6 +31,7 @@
 
 #0100
 <PRI<FAO0003<TRA0064:0093:0003:0001
+
 #0110
 <PRI<FAO0001<MYD0002<TRA0068:0091:0003:0014
 
@@ -38,28 +39,29 @@
 <KEY
 <FLJ1272:0204
 <FLJ1270:0202
-<FLJ1271:0201<MSGOh, 
-der geheimnisvolle Reisende.<NOD<FLJ1020:0205<CLRBist du gekommen, 
-um mich zu retten?<NOD<END
+<FLJ1271:0201<MSGAh, der Reisende von neulich.<NOD<FLJ1020:0205<CLRBist du hier um
+mich zu retten?<NOD<END
+
 #0201
-<PRI<MSGDu kannst es schaffen!<NOD<END
+<PRI<MSGDas schaffst du!<NOD<END
+
 #0202
-<KEY<MSGDu hast es geschafft!<NOD<CLRIch fühle mich wie eine 
-Königin.<NOD<CLR
-Sue?<NOD<CLROooh, Ich kenne sie.<NOD
-Sie sieht aus wie 
-ein Mimiga, aber in 
-Wirklichkeit ist sie 
-ein Mensch, oder?<NOD
-Meine Augen kann niemand 
-täuschen.<NOD
-Wie auch immer, 
-sie ist nicht hier.<NOD<CLO
+<KEY<MSGGeschafft!<NOD<CLRDa fühlt man sich gleich
+wie eine Prinzessin.<NOD<CLRSue?<NOD<CLROh, ja klar, die kenn ich~!<NOD
+Die Kleine die wie ein Mimiga
+aussieht, aber ein Mensch ist,
+oder?<NOD
+Meinen Augen entgeht nämlich
+nichts~.<NOD
+Die ist gerade nicht hier.<NOD<CLO
 <FL+1272<END
+
 #0203
+
 #0204
-<KEY<MSGDu bist so stark!<NOD
-Fast wie der große Athur.<NOD<FLJ1274:0000<FL+1274<CLRTee-hee!...<NOD<CLO
+<KEY<MSGDu bist ja so stark!<NOD
+Fast so wie der große Held
+Arthur.<NOD<FLJ1274:0000<FL+1274<CLREhehee~...!<NOD<CLO
 <ANP0250:0010:0005
 <ANP0251:0010:0005
 <ANP0252:0010:0005
@@ -67,35 +69,44 @@ Fast wie der große Athur.<NOD<FLJ1274:0000<FL+1274<CLRTee-hee!...<NOD<CLO
 <ANP0254:0010:0005
 <ANP0255:0010:0005
 <END
+
 #0205
-<KEY<MSGEgal, wie du dich verkleidest, 
-du kannst mich nicht täuschen.<NOD<END
+<KEY<MSGDu musst dich nicht verkleiden.
+Mir entgeht nämlich nichts.<NOD<END
 
 #0210
 <PRI<FLJ1270:0212
 <FLJ1271:0211
 <MSGDer Doktor hat Angst vor uns.<NOD
-Darum hält er uns gefangen.<NOD<END
+Genau darum hat er uns
+eingesperrt.<NOD<CLR
+Ziemlich sicher.<NOD<END
+
 #0211
-<PRI<MSGDu hast interessante Fähigkeiten<NOD<END
+<PRI<MSGHast du gerade nichts besseres
+zu tun??<NOD<END
+
 #0212
-<PRI<MSGNa das war doch mal was!<NOD<END
+<PRI<MSGNa, das war doch gar
+nicht so übel!<NOD<END
 
 #0220
 <PRI<FLJ1270:0222
 <FLJ1271:0221
-<MSGOh hey,<NOD du bist doch dieser...<NOD<END
+<MSGHey,<NOD dich kenn ich doch...<NOD<END
+
 #0221
-<PRI<MSG
-Achtung! Hinter dir!<NOD<END
+<PRI<MSGACHTUNG! Hinter dir!<NOD<END
+
 #0222
-<KEY<MSGErkennst du mich?<NOD
-Aus Grasstown? 
-Ohne Schlüssel?...<NOD<FLJ1020:0223<CLRNaja, den hab ich ja wieder...<NOD<CLRDer Doktor war am 
-Ende also doch zu 
-nichts tauglich.<NOD<END
+<KEY<MSGKennst du mich noch?
+Damals in Buschhausen.<NOD
+Ich hab meinen Schlüssel
+verloren...<NOD<FLJ1020:0223<CLRNaja, egal...<NOD<CLRDieser Doktor war echt ein
+böser Kerl, was?<NOD<END
+
 #0223
-<KEY<MSGWarum siehst du wie 
+<KEY<MSGWarum siehst du denn wie
 ein Mimiga aus?!<NOD<END
 
 #0250
@@ -110,9 +121,8 @@ ein Mimiga aus?!<NOD<END
 
 #0410
 <KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
-<CMU0000<MS3Gyaaahhh!<MYB0410<NOD<CLRDie...<WAI0020die Macht...<WAI0020<CLR
-Ich kann sie nicht 
-kontrollieren!!<NOD<CLO
+<CMU0000<MS3Gyaaahhh!<MYB0410<NOD<CLRD...<WAI0020Die Kraft...<WAI0020<CLRK-, kann sie nicht
+beherrschen!!<NOD<CLO
 <WAI0050<CNP0420:0267:0004<WAI0100
 <FOM0016
 <ANP0420:0007:0004<BSL0420<DNP0410<FL-1270<CMU0031<END
@@ -120,10 +130,9 @@ kontrollieren!!<NOD<CLO
 #0420
 <KEY<FON0420:0016<FL+1270
 <ANP0420:0500:0004<WAI0100
-<MS3Aaaiiggghh!!<MYB0420<NOD<CLO
+<MS3HGGAAAAAAHH!!<MYB0420<NOD<CLO
 <ANP0420:0510:0004<WAI0450<CMU0015
-<FOM0016<ANP0420:0520:0000<MS3
-Den Doktor besiegt!<WAI0140<NOD<CMU0000<CLO
+<FOM0016<ANP0420:0520:0000<MS3Du hast den Doktor besiegt!<WAI0140<NOD<CMU0000<CLO
 <FON0450:0016<WAI0050
 <CMP0003:0009:0021<SOU0012<WAI0020
 <CMP0003:0006:0021<SOU0012<WAI0020
@@ -131,42 +140,48 @@ Den Doktor besiegt!<WAI0140<NOD<CMU0000<CLO
 <CMP0003:0000:0000<SOU0012<WAI0020
 <WAI0050
 <FOM0016<CMU0030<DNP0420<END
+
 #0450
 
 
 #0500
 <KEY<DNP0500<SKJ0001:0501<SK+0001<EVE0502
+
 #0501
 <KEY<SAT<EVE0502
+
 #0502
 <CMU0017<MYD0002
 <CMP0003:0013:0021
-<MS3<FAC0021<ANP0400:0010:0000Mwah-hah-hah...<NOD<CLR
-Endlich, es ist fertig.<NOD<CLO<FAC0000
+<MS3<FAC0021<ANP0400:0010:0000Hoh-hoh-hoo...<NOD<CLREs ist endlich vollbracht.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
-<MS3<FAC0021Die roten Blumen, 
-wie du sicher weißt, 
-lassen Mimigas in einen 
-grausamen Blutrausch 
-gelangen...<NOD<CLRDer Grund dafür ist in  
-Wirklichkeit sehr simpel.<NOD<CLRDiese Blumen enthalten 
-nicht nur eine Substanz, 
-die einen gewaltige Kräfte 
-schöpfen lässt,<NOD<CLRnein, auch eine, 
-um den gesunden 
-Menschenverstand und das 
-Ehrgefühl auszuschalten.<NOD<CLRUnd diesen Stoff 
-habe ich nun 
-erfolgreich isoliert.<NOD<CLRDu kannst sie in 
-Form von diesem...<NOD<CLO<FAC0000
+<MS3<FAC0021Wenn rote Blumen einem 
+Mimiga eingespeist<NOD
+werden, verwandelt es
+sich in ein unbändiges
+Monster...<NOD<CLREs gibt einen sehr
+einfachen Grund dafür.<NOD<CLRDie roten Blumen
+enthalten eine Substanz,<NOD
+die nicht nur das
+versteckte Potenzial
+herauskitzeln kann,<NOD
+sondern auch jeglichen
+Sinn für Recht und
+Ordnung pulverisiert.<NOD<CLRUnd ich habe erfolgreich
+die reine Form dieser
+Substanz verdichten<NOD
+und konzentrieren
+können...<NOD<CLRHier ist er...<NOD<CLO<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
-<MS3<FAC0021...roten Kristall sehen.<WAI0030<NOD<CLRUnd im Gegensatz zu 
-den Blumen,
-wird dieser Kristall auch 
-Menschen anfällig machen.<NOD<CLR<ANP0400:0050:0000Ho-ho-hoh...<NOD<CLREs ist fantastisch!<NOD<CLRVerstehst du 
-nun seine Bedeutung?
-Versehst du?!<NOD<CLRHa! Das bezweifle ich!<NOD<CLRLass es mich dir erklären...<NOD<CLRIn einer ganz 
-speziellen Lektion!!<NOD<CLO
+<MS3<FAC0021...der rote Kristall.<WAI0030<NOD<CLRGanz im Vergleich zu den
+Blumen,<NOD wirkt dieser
+Kristall auch bei
+Menschen!<NOD<CLR<ANP0400:0050:0000Ka-ha-hah...<NOD<CLREinfach wundervoll!<NOD<CLRBegreifst du überhaupt
+dieses fabelhafte
+Wunderwerk?!<NOD<CLRBestimmt nicht!<NOD<CLRNun... <NODDann erlaube mir
+eine detaillierte
+Erklärung...<NOD<CLRAls meine ganz besondere
+Doktors-Vorlesung!!<NOD<CLO
 <CNP0410:0263:0000<WAI0005
 <ANP0410:0002:0000<WAI0050
 <CMP0003:0013:0021<DNP0400
@@ -180,4 +195,3 @@ speziellen Lektion!!<NOD<CLO
 <ANP0410:0002:0000<WAI0050
 <CMP0003:0013:0021<DNP0400
 <FL-1270<FL+1271<WAI0050<BSL0410<CMU0007<END
-

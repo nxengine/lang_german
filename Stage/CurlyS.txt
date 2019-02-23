@@ -15,17 +15,17 @@
 
 
 #0400
-<KEY<SOU0105<MSGArf!<NOD<FLJ0564:0401<END
+<KEY<SOU0105<MSGWuff!<NOD<FLJ0564:0401<END
 #0401
-<ITJ0014:0410<CLRMöchtest du den Hund mit dir nehmen?<YNJ0000<CLR
-<CNP0400:0136:0000<FL+0580<GIT1014<IT+0014Du hast den =Welpen= mitgenommen.<NOD<CLO
+<ITJ0014:0410<CLRWillst du das Hündchen
+mitnehmen?<YNJ0000<CLR
+<CNP0400:0136:0000<FL+0580<GIT1014<IT+0014Du nimmst das =Hündchen= mit.<NOD<CLO
 <FL+3000<FL-3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
 #0410
-<PRI<MSGMehr als einen kannst du nicht tragen.<NOD<END
+<PRI<MSGEiner reicht dir vollkommen.<NOD<END
 
 #0420
 <KEY<DNP0420<MSG<GIT1035<IT+0035
-Du hast =Curlys Unterwäsche= gefunden.<NOD<END
-
+Du hast =Curlys Höschen= gefunden.<NOD<END
 

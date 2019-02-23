@@ -15,53 +15,58 @@
 
 #0700
 <KEY<FL-0440<FL-0443<CMU0021<FAI0004
-<MSG<TURVerbindung wird hergestellt...<WAI0050
+<MSG<TURVerbinde zum Netzwerk...<WAI0050
 <TUREingeloggt.<WAI0050
-<TURChat-Algorithms wird ausgeführt.<WAI0100<CLR
-<MSG<FAC0001Kazuma.<NOD
+<TURStarte Chatraum.<WAI0100<CLR
+<MSG<FAC0001Onii-chan?<NOD
 Bist du da?<NOD
-Bist du okay?<NOD<FAO0004<TRA0018:0700:0002:0000
+Alles klar bei dir?<NOD<FAO0004<TRA0018:0700:0002:0000
+
 #0701
-<KEY<FAI0004<MSG<FAC0001Ich bin's.<NOD
-Sue Sakamoto.<NOD<CLRAlso konntest du 
-auch entkommen?<NOD
-Wo bist du gerade?<NOD
-Ich hab Dracheneier 
-gefunden.<NOD
-Ist Mutter bei dir?<NOD<FAO0004<TRA0018:0701:0002:0000
+<KEY<FAI0004<MSG<FAC0001Ja ich bins, Sue.<NOD
+Suu Sakamoto.<NOD<CLRDu bist also auch
+entwischt?<NOD
+Wo bist du jetzt?<NOD
+Ich hab ein paar
+Dracheneier gefunden.<NOD
+Ist die Mama auch bei dir?<NOD<FAO0004<TRA0018:0701:0002:0000
+
 #0702
-<KEY<FAI0004<MSG<FAC0001Wenigstens einer 
-von ihnen.<NOD
-Aber er ist per 
-Passwort geschützt.<NOD
-Kannst du da was machen?<NOD<FAC0000<CLR<TURInformationen über 
-Benutzer
-"Kazuma" werden gesucht...<WAI0150<CLR<TURFertig.
-Aufenthaltsort: Grasstown Sektor D<NOD
-Nach Teleportern wird gesucht.<NOD<CLRVerbindung nach 
-"Grasstown" wird vorbereitet...<NOD<CLR
-<MSG<FAC0001Okay, ich komme 
-und hole dich.<NOD
-Geh nicht weg.<NOD<FAO0004<TRA0018:0702:0002:0000
+<KEY<FAI0004<MSG<FAC0001Ja, zumindest eins der
+Eier sieht schlüpfbar aus.<NOD
+Aber es ist leider
+passwortgeschützt.<NOD
+Kannst du da irgendwas
+machen?<NOD<FAC0000<CLR<TURDaten für Nutzer "Kazuma"
+werden übertragen...<WAI0150<CLR<TURDaten übertragen.
+Standort: Buschhausen Gebäude D<NOD
+Scanne nach betriebsfähigen Teleportern.<NOD<CLRSetze Verbindung mit
+Teleporter in "Buschhausen" auf...<NOD<CLR
+<MSG<FAC0001Na jedenfalls,
+ich komm gleich rüber und
+hol dich da raus.<NOD
+Halt die Ohren steif,
+okay?<NOD<FAO0004<TRA0018:0702:0002:0000
+
 #0703
-<KEY<CNP0700:0042:0000<FAI0004<MSG.....<NOD
-Wenn dieser andere 
-Junge kommt...?<NOD<CLR
-<SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!<NOD
+<KEY<CNP0700:0042:0000<FAI0004<MSG...<NOD
+Der Junge braucht aber
+ganz schön lange...<NOD<CLR
+<SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!!<NOD
 <CLO<ANP0710:0008:0000<WAI0016<ANP0710:0000:0000
-<MSG<FAC0007Du kommst also zurück.<NOD
-Ich habe auf dich gewartet...<NOD<CLR<FAC0002Ja? Was ist?<NOD
-Ich bin grade beschäftigt.<NOD<CLR<FAC0007Toroko wurde von den
-Helfern des Doktors 
-entführt.<NOD<CLR<FAC0001Was?!<NOD<CLR<FAC0009Und DU 
-bist dafür verantwortlich!!<NOD<FAC0000<CLO
+<MSG<FAC0007Da bist du ja wieder.<NOD
+Wir haben schon auf dich
+gewartet...<NOD<CLR<FAC0002Ohh Mann, was jetzt?<NOD
+Ich bin beschäftigt hier.<NOD<CLR<FAC0007Die Handlanger vom Doktor
+haben Toroko entführt.<NOD<CLR<FAC0001Hä? ECHT?!<NOD<CLR<FAC0009Und DU wirst dafür
+gerade stehen!!<NOD<FAC0000<CLO
 <ANP0710:0008:0000<WAI0100<FAO0004<MSG
-<FAC0003Lasst mich gehen!<NOD<CLR<FAC0007Oh nein, dich nicht!<NOD<TRA0001:0099:0005:0008
+<FAC0003Hey, LASS MICH LOS!<NOD<CLR<FAC0007Keine Chance!<NOD<TRA0001:0099:0005:0008
 <END
 <END
+
 #0704
 
 
 #0710
 #0711
-

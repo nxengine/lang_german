@@ -22,7 +22,7 @@
 <KEY<FLJ0561:0102<SOU0011<ANP0101:0000:0002
 <FAO0004<TRA0032:0094:0008:0009
 #0102
-<PRI<MSGSie lässt sich nicht öffnen!<NOD<END
+<PRI<MSGSie geht nicht auf!<NOD<END
 
 
 
@@ -31,34 +31,46 @@
 <KEY
 <FLJ0564:0204
 <FLJ0562:0206
-<MSGIch habe dir nichts zu sagen.<NOD<END
+<MSGMit dir muss ich nicht reden.<NOD<END
+
 #0201
-<KEY<MSGPass auf die Sandcrocs auf.<NOD
-Wenn du auf den Sand trittst, 
-springen sie heraus 
-und beißen dich.<NOD
-Und das tut ECHT weh!<NOD<END
+<KEY<MSGPass auf die Sand-Krokos auf.<NOD
+Ein Schritt auf sie drauf
+und auf einmal machts SCHNAPP!<NOD
+Das tut auch tierisch weh!<NOD<END
+
 #0202
 <FLJ0273:0205
-<KEY<MSGUmm die Sonensteine zu bewegen,
- musst du den Fluch aufheben...<NOD<END
+<KEY<MSGDamit sich die Sonnensteine
+rühren, muss erst ein Fluch oder
+sowas geliftet werden...<NOD<END
+
 #0203
-<KEY<MSGZzzmrbl...<NOD<CLRFisch...
-So lecker... Fisch...<NOD<END
+<KEY<MSGZzzchhh-mjam-majm...<NOD<CLRHab Hunger...
+Will lecker Fisch haben...<NOD<END
+
 #0204
-<MSGDie Alte Jenka wohnt irgendwo in der Sand Zone.<NOD
-Sie, und ihre Hundewelpen.<NOD<CLRIhr Haus ist...<NOD<CLRÄhmmmmm...<NOD<CLR...Irgendwo hier...?<NOD<END
+<MSGDie alte Oma Jenka war früher mal
+für die Sand-Zone hier
+verantwortlich.<NOD
+Also sie und ihre Hündchen.<NOD<CLRDie Oma Jenka wohnt jetzt...<NOD<CLRÖööhm...<NOD<CLR...glaub irgendwo
+in der Sand-Zone...?<NOD<END
+
 #0205
-<KEY<MSGUnsere echten Mütter 
-wurden von Robotern getötet.<NOD<CLRDa hatten wir noch nicht
-einmal unsere Augen geöffnet...<NOD
-Aber Curly hat uns aufgezogen.<NOD<END
+<KEY<MSGUnsere echte Mami wurde von
+Robotern getötet.<NOD<CLRAber Mama Curly hat uns
+großgezogen,<NOD schon seit wir
+noch nicht mal die Äuglein
+offen hatten.<NOD<END
+
 #0206
 <KEY<MSGDu suchst nach roten Blumen?<NOD
-Dies alte Frau Jenka weiß 
-warscheinlich etwas darüber.<NOD<CLRAch, ja.<NOD<CLRWenn du zu ihr gehst,
-nimm doch den Hund 
-neben Curlys Bett mit.<NOD<FL+0564<END
+Es gibt da diese alte Oma Jenka.
+Die weiß vielleicht was dazu.<NOD<CLROh, fast vergessen.<NOD<CLRWenn du sie besuchst, könntest
+du gleich ihr Hündchen zu ihr
+mitnehmen?<NOD
+Es sitzt gleich neben
+dem Bett.<NOD<FL+0564<END
 
 
 
@@ -70,15 +82,20 @@ neben Curlys Bett mit.<NOD<FL+0564<END
 <CNP0310:0122:0002<DNP0200<WAI0010
 <CNP0311:0122:0002<DNP0201<WAI0010
 <CNP0312:0122:0002<DNP0202<WAI0010
-<CNP0313:0122:0002<DNP0203<MSGWir haben einen BESUCHER!<NOD<CLRIch weiß,
-warum du hier bist!<NOD
-Aber wach auf!<NOD
-Mimigas sind nicht 
-deine Feinde!<NOD
-Mimigas sind harmlos!!<NOD<CLRSchlecht für dich, denn...<NOD<CLO
+<CNP0313:0122:0002<DNP0203<MSGEin BESUCHER!
+Ach, wie schön!<NOD<CLRSag gar nichts, ich weiß 
+schon was du willst.<NOD
+Aber du musst endlich
+aufwachen!<NOD
+Die Mimigas sind nicht
+unsere Feinde!<NOD
+Mimiga sind harmlos wie
+Kuscheltiere!!<NOD<CLREs tut mir ja Leid für
+dich, aber...<NOD<CLO
 <WAI0020<SOU0004<CNP0400:0118:0002<DNP0500
 <WAI0010
-<MSGIch bin auf ihrer Seite!<NOD<CLRDu wirst untergehen!!<NOD<CLO
+<MSGIch gehör zu den Mimigas!<NOD<CLRUnd du gehst jetzt unter,
+mein Freund!!<NOD<CLO
 <BSL0400
 <CMU0004
 <ANP0400:0010:0002
@@ -106,56 +123,49 @@ Mimigas sind harmlos!!<NOD<CLRSchlecht für dich, denn...<NOD<CLO
 <CNP0400:0117:0005
 <ANP0400:0005:0005<WAI0002
 <ANP0400:0030:0004<SOU0070
-<WAI0100<PRI<CMU0015<MSG
-Victory!<WAI0140<CMU0000<NOD<CLO
+<WAI0100<PRI<CMU0015<MSGGewonnen!<WAI0140<CMU0000<NOD<CLO
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
-<MSG<FAC0020Du hast gewonnen...<NOD
-Ich kann nicht mehr kämpfen...<NOD<CLRDu wirst jetzt 
-vermutlich all die 
-Mimigas töten,<NOD
-wie all die 
-anderen Roboter?<YNJ0410<CLRIch sehe schon...<NOD<CLRWas für eine Schande...<NOD<PRI<CLO
+<MSG<FAC0020Du hast mich...<NOD
+Ich bin völlig fertig...<NOD<CLRJetzt willst du bestimmt
+die lieben Mimigas
+abmurksen,<NOD
+genau wie die anderen
+Roboter es gemacht haben?<YNJ0410<CLRJa...<NOD<CLRWie schrecklich...<NOD<PRI<CLO
 <FAO0004<TRA0029:0090:0012:0009
 
 #0410
 <KEY<FL+0562<MSG<FAC0019Oh!<NOD<FAC0000<CLO
 <ANP0400:0010:0000<WAI0050
-<MSG<FAC0019Du bist auch auf der 
-Seite der Mimigas?<NOD<CLRDas ist gut, 
-da ist nichts 
-Schlechtes an ihnen!<NOD<CLRIch bin Curly.
+<MSG<FAC0019Du bist auch auf der
+Seite der Mimigas?!<NOD<CLRJa eben, das sag ich doch
+immer!<NOD Mimiga sind
+ganz liebe Burschen!<NOD<CLRIch heiße Curly.<NOD
 Curly Brace.<NOD
-Als ich aufgewacht bin, 
-war ich bei diesen Kindern.<NOD<CLR<FAC0025Weiter reichen 
-meine Erinnerungen 
-nicht zurück...<NOD
-Amnesie, 
-wirst du vielleicht sagen.<NOD<CLR<FAC0020Ich war vermutlich 
-ein Mimiga-Schlächter, 
-genau wie die 
-anderen Roboter...<NOD<CLO
+Als ich zu mir kam, waren
+einfach diese Kleinen bei
+mir.<NOD<CLR<FAC0025Alle meine Erinnerungen
+davor sind wie
+ausgelöscht...<NOD
+Fast so wie Amnesie, was?<NOD<CLR<FAC0020Vielleicht war ich ja...<NOD
+auch so ein Mimiga-Killer,
+wie die anderen Roboter...<NOD<CLO
 <EVE0415
 
 #0415
-<KEY<MSG<FAC0019Oh, wow.<NOD<CLRDiesen Polar Star, 
-den du da hast 
-ist in echt gutem 
-Zustand.<NOD
-Interesse daran, 
-ihn gegen mein 
-Maschinengewehr 
-zu tauschen?<YNJ0420<FL+0563<FAC0000<CLR
-<TAM0002:0004:0100<GIT0002 =Polar Star= übergeben.<NOD<CLR
-<CMU0010<GIT0004Du hast das =Maschinengewehr= 
-bekommen!<WAI0160<NOD<RMU<CLO
+<KEY<MSG<FAC0019Ach, du liebe Güte.<NOD<CLRDein Polar Star sieht ganz
+schön ramponiert aus.<NOD
+Willst du ihn mit meiner
+Maschinenkanone tauschen?<YNJ0420<FL+0563<FAC0000<CLR
+<TAM0002:0004:0100<GIT0002Du tauschst den =Polar Star=.<NOD<CLR
+<CMU0010<GIT0004Und du bekommst die
+=Maschinenkanone=!<WAI0160<NOD<RMU<CLO
 <FAO0004<TRA0029:0090:0012:0009
 
 #0420
-<KEY<MSG<FAC0019Echt nicht?<NOD<CLRTja, 
-wenn du deine Meinung 
-jemals änderst, 
-ich bin hier.<NOD<PRI<CLO<MYD0000
+<KEY<MSG<FAC0019Echt nicht?<NOD<CLROkay. Aber wenn du's dir
+anders überlegt, komm
+einfach vorbei, ja?<NOD<PRI<CLO<MYD0000
 <FAO0004<TRA0029:0090:0012:0009
 
 
@@ -165,47 +175,44 @@ ich bin hier.<NOD<PRI<CLO<MYD0000
 <KEY
 <FLJ0563:0530
 <FLJ0562:0515
-<MSG<FAC0019Hm?<NOD<CLRAch, 
-wenn das nicht Mr. 
-Mimiga-Mörder ist.<NOD<CLRPlanst du immer noch
-alle Mimigas zu töten?<YNJ0510<CLR<FAC0020Ich verstehe...<NOD<CLRWas für eine Tragödie...<NOD<END
+<MSG<FAC0019Ach, wer kommt denn da?<NOD<CLRMr. Killer-Maschine
+höchstpersönlich.<NOD<CLRImmer noch auf der Suche
+nach Mimigas, die du
+abmurksen kannst?<YNJ0510<CLR<FAC0020Ach...<NOD<CLRTja, ein Jammer...<NOD<END
 
 #0510
-<KEY<FL+0562<MSG<FAC0019Oh!<NOD<CLRDu bist auch auf der 
-Seite der Mimigas<NOD<CLRDas ist gut, da ist nichts 
-Schlechtes an ihnen!<NOD<CLRIch bin Curly.
+<KEY<FL+0562<MSG<FAC0019Oh!<NOD<CLRDu bist auch auf der
+Seite der Mimigas?!
+<NOD<CLRJa eben, das sag ich doch
+immer!<NOD Mimiga sind
+ganz liebe Burschen!<NOD<CLRIch heiße Curly.
 Curly Brace.<NOD
-Als ich aufgewacht bin, 
-war ich bei diesen Kindern.<NOD<CLR<FAC0025Weiter reichen 
-meine Erinnerungen 
-nicht zurück...<NOD
-Amnesie, 
-wirst du vielleicht sagen.<NOD<CLR<FAC0020Ich war vermutlich 
-ein Mimiga-Schlächter, 
-genau wie die 
-anderen Roboter...<NOD<CLO
+Als ich zu mir kam, waren
+einfach diese Kleinen bei
+mir.<NOD<CLR<FAC0025Alle meine Erinnerungen
+davor sind wie
+ausgelöscht...<NOD
+Fast so wie Amnesie, was?<NOD<CLR<FAC0020Vielleicht war ich ja...<NOD
+auch so ein Mimiga-Killer,
+wie die anderen Roboter...<NOD<CLO
 <EVE0515
 
 #0515
-<KEY<MSG<FAC0019Oh, wow.<NOD<CLRDiesen Polar Star, 
-den du da hast 
-ist in echt gutem Zustand.<NOD
-Interesse daran, 
-ihn gegen mein 
-Maschinengewehr 
-zu tauschen?<YNJ0520<FL+0563<FAC0000<CLR
-<TAM0002:0004:0100<GIT0002 =Polar Star= übergeben.<NOD<CLR
-<CMU0010<GIT0004Du hast das =Maschinengewehr= 
-bekommen!<WAI0160<NOD<RMU<END
+<KEY<MSG<FAC0019Ach, du liebe Güte.<NOD<CLRDein Polar Star sieht ganz
+schön ramponiert aus.<NOD
+Willst du ihn mit meiner
+Maschinenkanone tauschen?<YNJ0520<FL+0563<FAC0000<CLR
+<TAM0002:0004:0100<GIT0002Du tauschst den =Polar Star=.<NOD<CLR
+<CMU0010<GIT0004Und du bekommst die
+=Maschinenkanone=!<WAI0160<NOD<RMU<END
 
 #0520
-<KEY<MSG<FAC0019Echt nicht?<NOD<CLRTja, 
-wenn du deine Meinung 
-jemals änderst, 
-ich bin hier.<NOD<END
+<KEY<MSG<FAC0019Echt nicht?<NOD<CLROkay. Aber wenn du's dir
+anders überlegt, komm
+einfach vorbei, ja?<NOD<END
 
 #0530
-<KEY<MSG<FAC0025Es sind die Menschen, 
-die die eigentlichen Bösen sind!<NOD
-Sie benutzen die Mimigas nur.<NOD<END
-
+<KEY<MSG<FAC0025Die einzigen bösen Kerle
+sind die Menschen!<NOD
+Die Mimigas wurden nur
+von ihnen ausgenutzt.<NOD<END

@@ -16,8 +16,6 @@
 
 #0304
 <PRI<DNP0304<SOU0022<CMU0016
-<MSG<GIT1006Du hast eine =Life Capsule= 
-gefunden!<WAI0160<NOD<RMU<ML+0005
-Maximale Gesundheit um 5 
-erhöht!<NOD<END
+<MSG<GIT1006Du hast eine =HP-Kapsel= bekommen!<WAI0160<NOD<RMU<ML+0005
+HP um 5 Punkte erhöht!<NOD<END
 

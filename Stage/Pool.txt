@@ -30,25 +30,29 @@
 
 
 #0200
-<KEY<MSGSue?<NOD<CLROh ja, die kenne ich.<NOD
-dan nette Mädchen, das sich schon
-die ganze Zeit in Arthurs 
-Haus verbarrikadiert?<NOD
-Vorhin war sie mal kurz hier.<NOD
-Wir haben sie ziemlich aufgewühlt 
-hier im Reservoir gefunden.<NOD
-Sie scheint uns nicht sehr zu mögen...<NOD
-Ich verstehe nicht, warum, 
-seit sie ein Mimiga wie wir ist.<NOD<END
+<KEY<MSGSue?<NOD<CLROh, ja klar, die kleine
+Sue.<NOD
+Das süße Mädchen das sich
+immer in Arthurs Bude
+einschließt, oder?<NOD
+Die ist gerade erst vor
+'ner Weile hier
+aufgetaucht.<NOD
+Ist einfach so hier in die
+Zisterne geplumpst.<NOD
+Aber irgendwie mag sie uns
+nicht so besonders...<NOD
+Keine Ahnung wieso, dabei
+ist sie doch 'ne Mimiga,
+genau wie wir alle.<NOD<END
 
 #0300
 <PRI
 <FL+0370<FL+0326<FL+0371<FL-0321<FL+0362
 
 <DNP0300
-<MSGAuf dem Boden glitzert etwas...<NOD<CLR<CMU0010<GIT1004<IT+0004
-Du hast den =Silbernen Anhänger= 
-gefunden.<WAI0160<NOD<CNP0402:0060:0000<CLO
+<MSGDa glänzt etwas am Boden...<NOD<CLR<CMU0010<GIT1004<IT+0004Du hast die =Silbermedaille=
+bekommen!<WAI0160<NOD<CNP0402:0060:0000<CLO
 <RMU<END
 
 
@@ -65,4 +69,3 @@ gefunden.<WAI0160<NOD<CNP0402:0060:0000<CLO
 <ANP0410:0011:0002<WAI0150
 <FAI0001<WAI0100
 <SMC<DNP0410<WAI0050<CMU0028<END
-

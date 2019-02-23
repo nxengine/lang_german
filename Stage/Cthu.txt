@@ -18,15 +18,14 @@
 
 
 #0200
-<KEY<FLJ1290:0201<FL+1290<MSGOho.<NOD<CLREin Soldat von der Oberfläche?
-So etwas habe ich hier nicht 
-erwartet...<NOD
-Wo sind die anderen?<NOD<CLR.....<NOD<CLRWas ist denn?
-Deine Erinnerungen 
-sind fort?<NOD
+<KEY<FLJ1290:0201<FL+1290<MSGOho.<NOD<CLRBist du ein Soldat von der
+Oberfläche?
+Sehr interessant...<NOD
+Wo ist der Rest deiner Truppe?<NOD<CLR.....<NOD<CLRWie bitte?
+Du hast dein Gedächtnis verloren?<NOD
 Heh-heh-heh...<NOD<END
-#0201
-<KEY<MSGNaja,<NOD 
-bis deine Batterien leer sind,<NOD 
-viel Spaß beim Wandern.<NOD<END
 
+#0201
+<KEY<MSGNa dann, marschier eben
+in der Gegend rum, bis dir der
+Saft ausgeht.<NOD<END

@@ -15,14 +15,13 @@
 
 #0200
 <KEY<FLJ1042:0201
-<MSGVerschlossen...<NOD<END
+<MSGSie geht nicht auf...<NOD<END
 #0201
 <KEY<FLJ1700:0202<FL+1700<SOU0022<CNP0200:0021:0000
-<MSGSchatztruhe geöffnet.<NOD<GIT1022<IT+0022<CLR
-<CMU0010Du hast den =Nikumaru Zähler= 
-gefunden!<WAI0160<NOD<RMU<EVE0202
+<MSGDu öffnest die Schatzkiste.<NOD<GIT1022<IT+0022<CLR
+<CMU0010Du hast die =290 Stoppuhr=
+bekommen!<WAI0160<NOD<RMU<EVE0202
 #0202
-<KEY<MSGEtwas steht hier...<NOD<CLR<TURDieser Gegenstand ist ein Tribut an<NOD
-eueren Kanmpfgeist.<NOD
-Ruhm und Ehre allen Wettkämpfern!<NOD<END
-
+<KEY<MSGHier steht etwas...<NOD<CLR<TUR"Dieses Item schenke ich dir
+als Abzeichen deines Willens.<NOD<CLREin Hoch auf alle tatenkräftigen
+Herausforderer!"<NOD<END
