@@ -4,7 +4,7 @@
   "New game" : "Neues Spiel",
   "Load game" : "Spiel laden",
   "Options" : "Optionen",
-  "Mods" : "Modifikation",
+  "Mods" : "Mods",
   "Quit" : "Ende",
   "Reset" : "Hauptmenü",
   "Resume" : "Weiter",
@@ -24,10 +24,10 @@
   "Sound: ": "SFX: ",
   "Language: ": "Sprache: ",
   "Return": "Zurück",
-  "Bind keys": "Schlüssel zuordnen",
+  "Bind keys": "Tasten zuordnen",
   "Force feedback: ": "Vibration: ",
-  "Ok: ": "Akzeptieren: ",
-  "Cancel: ": "Annullieren: ",
+  "Ok: ": "OK: ",
+  "Cancel: ": "Abbruch: ",
   "Left": "Links",
   "Right": "Rechts",
   "Up": "Oben",
@@ -118,4 +118,3 @@
   "Hermit Gunsmith": "Einsiedlerwaffenschmied",
   "Clock Room": "Uhrenraum"
 }
-
